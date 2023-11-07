@@ -228,7 +228,7 @@ http://abf.filmbluray.id/3kwb55n
 http://abf.filmbluray.id/3pnemqu
 #EXTINF:-1 group-title="MOVIE" tvg-logo="http://pictures.my.id/images/wendy.png",Wendy (2020)
 http://abf.filmbluray.id/3si6aqm
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/intel.png",Central Intelligence 
+#EXTINF:-1 group-title="MOVIE"  tvg-logo="http://pictures.my.id/images/intel.png",Central Intelligence 
 http://abf.filmbluray.id/3w66sgj
 #EXTINF:-1 group-title="MOVIE" tvg-logo="http://pictures.my.id/images/mib2.png",Men in Black 2 
 http://abf.filmbluray.id/3zp1caf
