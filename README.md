@@ -4,11 +4,11 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6b9b56bd7f8a51a4a37f450cf3334152:ead1c52f745993bc3c8802ad7de99d64
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5e7864b63a736626cecbf699_hbovodhd/dash0/MYS_index.mpd
-#EXTINF:-1 tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="MOVIE",The Transporter
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S6hdPfQ/trans-1.jpg" group-title="MOVIE",The Transporter
 https://www.googleapis.com/drive/v3/files/1trdpJH9mXK8yxDzMZBq9HBotfE-T6Okl?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="MOVIE",Transporter 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0tNP7CS/trans-2.jpg" group-title="MOVIE",Transporter 2
 https://www.googleapis.com/drive/v3/files/1aHNMwzVw8B8H7b_HkW8tYfyhw7DyNMdi?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="MOVIE",Transporter 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1Xcynmw/trans-3.jpg" group-title="MOVIE",Transporter 3
 https://www.googleapis.com/drive/v3/files/1KecYpsXXUIpsM8u3spCJzRc37xo0fgKz?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/originald/020839X0-landscape.jpg"" group-title="MOVIE", Transformers 1 (2007)
 https://privatemaster.xyz/cdn/stream/master/BiNuTIxLWoxzhMeSkMAFTAmXEGth1GgHuAH9MAwfjPmHaM9OpokycTYNTRYvb9QDpFz1iSDc52PUd75BH9LuyYWoNiWAMVrkbDffNQsbKRdSIlCg2rZEAn7iw5lGYMoz/master.m3u8
@@ -16,7 +16,7 @@ https://privatemaster.xyz/cdn/stream/master/BiNuTIxLWoxzhMeSkMAFTAmXEGth1GgHuAH9
 https://privatemaster.xyz/cdn/stream/master/UGuj5PLTomDTpMas2PAyDjv4B2X0by7Foj0Tcf1SVVAm4mvpAUBMroJu9yzACxIlyRZM9exgPI36I6w4AyjMUQHTGZjuz8Y09gxIrBr4dcqpJNS3eTpvaIRt0WEt2FZT/master.m3u8
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/originald/009233X0-landscape.jpg" group-title="MOVIE", Transformers 3 Dark of the Moon  
 https://privatemaster.xyz/cdn/stream/master/mqRXxqN3aAod7VPCVfvJzweMn25cw1Bjj3aRTMxWPigAIvIGqWbCcOJJwwQAsPCibtudRBJscHRuYvNJjfsn6PY031XNaweF7BxwVAVW19hx5ebKEkkvDFEm223YPDCD/master.m3u8
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/580b57fbd9996e24bc43c081.png" group-title="MOVIE", Transformers  Age of Extinction 
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/018147X0-portrait.jpg" group-title="MOVIE", Transformers  Age of Extinction 
 https://privatemaster.xyz/cdn/stream/master/lil4csqeL7SfvseXYDqzJ3YTVDD7Pa4Flk0zkcEFEDtxfHjltTgGdiRKLBhbR2aVXIxU1aDBEScOCQbWTxElECGTpZaSHfRheIqYQYZJkEpUOJr5nMiNYxfCnPQ5vroL/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3scjjJn/LAST.jpg" group-title="MOVIE", Transformers The Last Knight 
 https://privatemaster.xyz/cdn/stream/master/yoBcrQflOD9AVUR0g4wCfZAKyQjUNJKYFVg6E5BvybGEOB5MruwiIgJ5IuNKWDx5yhZGykW6QhH0cLhUoTgDsRmbQTVHIvDj4ZGRdT3vK3BfOn9C8OzFxJBzR1JGAUbB/master.m3u8
@@ -24,9 +24,9 @@ https://privatemaster.xyz/cdn/stream/master/yoBcrQflOD9AVUR0g4wCfZAKyQjUNJKYFVg6
 https://privatemaster.xyz/cdn/stream/master/743XWgJWf6KzszEwhOlQ4oFQ50T0LJGp5INiiKnUHhV23pJHSlzxPGJHOuSiQR7MChXiK9sLufK8gsYhlLwKkHex8nYUWyB0JgVBvBVx1xWXkpesGApA7jmWlV20QPP1/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="MOVIE",The Bourne Supremacy
 https://www.googleapis.com/drive/v3/files/1JL4xp1GiBbXBiS_ZUJ50VgtVa6CeX008?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="MOVIE",The Bourne Ultimatum
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020305X0-portrait.jpg" group-title="MOVIE",The Bourne Ultimatum
 https://www.googleapis.com/drive/v3/files/1Kq4xCUzVxxw7Zq8GaPLuxayRhE7XCuBH?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="MOVIE",The Bourne Legacy
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/015423X0-portrait.jpg" group-title="MOVIE",The Bourne Legacy
 https://www.googleapis.com/drive/v3/files/1BH3fKMygPonozus81_qFtQYEjx3Dd-ba?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="MOVIE" tvg-logo="http://pictures.my.id/images/rambo5.png",Rambo : Last Blood 
 http://abf.filmbluray.id/29312ls
