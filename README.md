@@ -1,3 +1,9 @@
+
+#EXTINF:0 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/originald/023508X0-landscape.jpg" group-title="MOVIE",Fast & Furious: Hobbs & Shaw
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6b9b56bd7f8a51a4a37f450cf3334152:ead1c52f745993bc3c8802ad7de99d64
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5e7864b63a736626cecbf699_hbovodhd/dash0/MYS_index.mpd
 #EXTINF:-1 tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="MOVIE",The Transporter
 https://www.googleapis.com/drive/v3/files/1trdpJH9mXK8yxDzMZBq9HBotfE-T6Okl?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="MOVIE",Transporter 2
@@ -88,48 +94,51 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64cbd7dcd940521074d
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64532a79d940521074d0e71b_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #EXTINF:0 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/originald/040640X0-landscape.jpg" group-title="MOVIE",Scream Vi
-#KODIPROP:inputstreamaddon=inputstream.adaptive
+KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=671a3fc7b55dcb56f8c66ed8eaad141e:962953b30ed281c5b40eca0078466df0
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/65012e17d940521074e137bd_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
-
-#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040194X0-portrait.jpg",Tom And Jerry: Snowman'S Land 2022
+#EXTINF:0 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/originald/040423X0-landscape.jpg" group-title="MOVIE",KUNGFU PANDA 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"KPTxMHNytP9T/0ufkc45UQ","kid":"wUeWfe4JEKu1DNbk90dfXg"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6455beb3d940521074d12528_hbovodhd/dash0/MYS_DOLBY_index.mpd
+#KODIPROP:inputstream.adaptive.license_key=e080e8d17a75b68c171bafed250c617e:e2666c16aaa10cc855a580ff0d39a633
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64aa6825d940521074d91179_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
-#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039450X0-portrait.jpg",Love, Lizzo 2022
+#EXTINF:0 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/originald/040436X0-landscape.jpg" group-title="MOVIE",The Weeknd: Live At Sofi Stadium
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cOFF62JyUQjp4fb1UmNk6Q","kid":"repYQU+m/qNt7NhDl3YOsQ"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64321955d940521074cdcc2e_hbovodhd/dash0/MYS_DOLBY_index.mpd
+#KODIPROP:inputstream.adaptive.license_key=626e2f639f995fb4622bf4cc23fca4e5:c51ea0657317aa01e5513c601b18b8ed
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64564331d940521074d1329a_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
-#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040515X0-portrait.jpg",The Fabelmans 2022
+#EXTINF:0 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/originald/040443X0-landscape.jpg" group-title="MOVIE",War Zone: Bear Grylls Meets President Zelenskyy
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Kh7c0mGVfIUjbNNgtm6g5w","kid":"wWwWR9lAbG+E8G8PvrBKKw"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64c37444d940521074db6dc6_hbovodhd/dash0/MYS_DOLBY_index.mpd
+#KODIPROP:inputstream.adaptive.license_key=8236b774c756a2b9b2c791a970ab7305:3edf7f7049b0fb5ebbb1ed1f77d315ac
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6453259bd940521074d0e6a3_hbovodhd/dash0/MYS_index.mpd
 
-#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039274X0-portrait.jpg",The Travelog: Hyoyeon & Sunny In Qatar 2022
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XcaO3K867FSJslYkiekyfQ","kid":"bf+84Xzvk0Xq69ryRfFVsA"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63914ccad940521074beb2da_hbovodhd/dash0/MYS_index.mpd
-
-#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040406X0-portrait.jpg",She Said 2022
+#EXTINF:0 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/originald/040333X0-landscape.jpg" group-title="MOVIE",Magic Mike'S Last Dance
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"t2Jz8jsrpqRzhSEd9+N7bg","kid":"e37aZFh7K91Tk+EYfFO0sQ"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64fb2e8bd940521074e0a73f_hbovodhd/dash0/MYS_DOLBY_index.mpd
+#KODIPROP:inputstream.adaptive.license_key=65be40852d44ba852db6264d66a79cd7:54a86402886d6e0d45d5e563edf08395
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6470b5b4d940521074d3ad30_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
-#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040234X0-portrait.jpg",Crawlspace 2022
+#EXTINF:0 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/originald/040285X0-landscape.jpg" group-title="MOVIE",All That Breathes
+3da7954f870d56992b55af368f401976:7fad2d7f2c64a81bf46883e1eea7e66a 
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6406dabad940521074c9c1ce_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:0 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/originald/040517X0-landscape.jpg" group-title="MOVIE",80 For Brady
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9lLecFbuveJ7TpmNiMg7Cw","kid":"xGg03ex19SDifUdwV8W/7g"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6482be0ad940521074d55b26_hbovodhd/dash0/MYS_DOLBY_index.mpd
+#KODIPROP:inputstream.adaptive.license_key=c446b9fe09cf1153a0143b09485e2170:bcd75dc517b3678ee3f634ca2cbf3697
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/640687cad940521074c9b9f9_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
+
+#EXTINF:0 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/originald/009288X0-landscape.jpg" group-title="MOVIE",Mission: Impossible
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=26a2610e99c05b9e89ee5cb18c8f7b0a:b3a464bfb18b5f7470f6e10d6e280deb
+"https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5da594c7cbea8a6a4ef19ddc_hbovodhd/dash0/MYS_index.mpd
 
 
 
