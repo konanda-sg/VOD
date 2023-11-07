@@ -10,11 +10,11 @@ https://www.googleapis.com/drive/v3/files/1trdpJH9mXK8yxDzMZBq9HBotfE-T6Okl?alt=
 https://www.googleapis.com/drive/v3/files/1aHNMwzVw8B8H7b_HkW8tYfyhw7DyNMdi?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="MOVIE",Transporter 3
 https://www.googleapis.com/drive/v3/files/1KecYpsXXUIpsM8u3spCJzRc37xo0fgKz?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/580b57fbd9996e24bc43c081.png" group-title="MOVIE", Transformers 1 (2007)
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/originald/020839X0-landscape.jpg"" group-title="MOVIE", Transformers 1 (2007)
 https://privatemaster.xyz/cdn/stream/master/BiNuTIxLWoxzhMeSkMAFTAmXEGth1GgHuAH9MAwfjPmHaM9OpokycTYNTRYvb9QDpFz1iSDc52PUd75BH9LuyYWoNiWAMVrkbDffNQsbKRdSIlCg2rZEAn7iw5lGYMoz/master.m3u8
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/580b57fbd9996e24bc43c081.png" group-title="MOVIE", Transformers Revenge of the Fallen 
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/originald/010422X0-landscape.jpg" group-title="MOVIE", Transformers Revenge of the Fallen 
 https://privatemaster.xyz/cdn/stream/master/UGuj5PLTomDTpMas2PAyDjv4B2X0by7Foj0Tcf1SVVAm4mvpAUBMroJu9yzACxIlyRZM9exgPI36I6w4AyjMUQHTGZjuz8Y09gxIrBr4dcqpJNS3eTpvaIRt0WEt2FZT/master.m3u8
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/580b57fbd9996e24bc43c081.png" group-title="MOVIE", Transformers 3 Dark of the Moon  
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/originald/009233X0-landscape.jpg" group-title="MOVIE", Transformers 3 Dark of the Moon  
 https://privatemaster.xyz/cdn/stream/master/mqRXxqN3aAod7VPCVfvJzweMn25cw1Bjj3aRTMxWPigAIvIGqWbCcOJJwwQAsPCibtudRBJscHRuYvNJjfsn6PY031XNaweF7BxwVAVW19hx5ebKEkkvDFEm223YPDCD/master.m3u8
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/580b57fbd9996e24bc43c081.png" group-title="MOVIE", Transformers  Age of Extinction 
 https://privatemaster.xyz/cdn/stream/master/lil4csqeL7SfvseXYDqzJ3YTVDD7Pa4Flk0zkcEFEDtxfHjltTgGdiRKLBhbR2aVXIxU1aDBEScOCQbWTxElECGTpZaSHfRheIqYQYZJkEpUOJr5nMiNYxfCnPQ5vroL/master.m3u8
@@ -140,6 +140,23 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/640687cad940521074c
 #KODIPROP:inputstream.adaptive.license_key=26a2610e99c05b9e89ee5cb18c8f7b0a:b3a464bfb18b5f7470f6e10d6e280deb
 "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5da594c7cbea8a6a4ef19ddc_hbovodhd/dash0/MYS_index.mpd
 
+#EXTINF:0 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/originald/040268X1-landscape.jpg" group-title="MOVIE",Mortal Kombat Legends
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f730f06cfa956424f5367d39ab1abeb:9e7369f083d6ebc03d3effb30d6d5c26
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64325355d940521074cdd23a_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:0 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/originald/020118X0-landscape.jpg" group-title="MOVIE",The Conjuring: The Devil Made Me Do It
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44dd002cd4eb5e42b7fd35e3e72d52ae:01dc61a4e3a5f182cdf80112ae04e863
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/611a14af2bd0bb5cd89ea595_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:0 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/originald/032930X0-landscape.jpg" group-title="MOVIE",Teenage Mutant Ninja Turtles
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3c6ab181ec7c3e5cbe9ed3a8fee825be:d34a7fd345fdd5b3d2c3d168a07ac988
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64375cdcd940521074ce4d58_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 
 
@@ -254,8 +271,7 @@ http://abf.filmbluray.id/4dujbbr
 http://abf.filmbluray.id/4ebzwum
 #EXTINF:-1 group-title="MOVIE" tvg-logo="http://pictures.my.id/images/Final-Destination-4.png",Final Destination 4 
 http://abf.filmbluray.id/4lk4ia7
-#EXTINF:-1,10 Days of a Good Man
-https://www.googleapis.com/drive/v3/files/15HajAAaBRY_Q2qGzHsbaFAdLiMbrydyE?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 
 
 
