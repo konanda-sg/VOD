@@ -63,6 +63,138 @@ http://abf.filmbluray.id/9mmhxus
 #KODIPROP:inputstream.adaptive.license_key=e4063e8388256eeabd2f4efdae7aedd3:12843781a238285c811dcc5a3715e344
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6537627dd940521074e64adf_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Anaconda 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5790.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Peter Pan & Wendy
+http://103.30.87.238:443/movie/wadmanet/norlec212/5579.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",,Plane
+http://103.30.87.238:443/movie/wadmanet/norlec212/5578.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Missing 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5575.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Jung_E 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5571.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",John Wick: Chapter 4 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5570.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Detective Knight: Independence 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5565.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Candy Land 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5563.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Ambush 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5562.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",San Andreas 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5800.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Top Gun: Maverick 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5801.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Sleepy Hollow 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5802.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Mr. & Mrs. Smith
+http://103.30.87.238:443/movie/wadmanet/norlec212/5803.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Avatar 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5805.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Tears of the Sun 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5808.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Aladdin 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5811.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Teenage Mutant Ninja Turtles: Mutant Mayhem 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5812.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Troy 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5813.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",The Hobbit: An Unexpected Journey 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5814.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",The Lord of the Rings: The Return of the King 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5834.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Ambulance 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5838.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Uncharted 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5843.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Indiana Jones and the Dial of Destiny 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5851.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Extraction 2 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5853.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",The Mother 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5855.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Braveheart 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5859.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Pinocchio 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5868.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",The Good Mother 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5875.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Island Escape
+http://103.30.87.238:443/movie/wadmanet/norlec212/5879.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Night at the Museum: Secret of the Tomb 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5895.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Night at the Museum: Battle of the Smithsonian 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5896.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Shazam! Fury of the Gods 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5922.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",FollowMe 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5946.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Army of the Dead 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5948.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Blasted: Gutta vs Aliens 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5949.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Blood and Bone 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5950.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Borderland 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5951.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Brian and Charles 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5952.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",C1hernobyl Diaries 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5953.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Love & Other Drugs 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5954.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Navy Seals 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5955.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Paradise Highway 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5956.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Minions: Kebangkitan Gru 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5957.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Nacho Libre 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5958.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Harold & Kumar Escape from Guantanamo Bay 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5959.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",John Carter 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5960.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Starship Troopers 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5961.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Die Hard 2 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5962.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Transfusion 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5963.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Marvel Studios Assembled: The Making of Black Panther: Wakanda Forever
+http://103.30.87.238:443/movie/wadmanet/norlec212/5964.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Die Another Day 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5965.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Independence Day: Resurgence 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5967.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Stand
+http://103.30.87.238:443/movie/wadmanet/norlec212/5968.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Baby Ruby 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5969.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Little Dixie 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5970.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",RED 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5971.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",The Reading 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5973.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Gran Turismo 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5974.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",The Equalizer 3 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5975.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",The Nun II
+http://103.30.87.238:443/movie/wadmanet/norlec212/5976.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Hacksaw Ridge 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5977.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Pearl Harbor 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5978.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Dunkirk 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5979.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",1917 
+http://103.30.87.238:443/movie/wadmanet/norlec212/5980.mp4
+
+
+
+
 #EXTINF:0 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/originald/041162X0-landscape.jpg" group-title="MOVIE",Meg 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
