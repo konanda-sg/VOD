@@ -119,7 +119,57 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63803119d940521074b
 #KODIPROP:inputstream.adaptive.license_key=efcebb04a7925c9db29d65682f2881c2:a6135783a546641f6711b4efec9da07b
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5e5f611b3a736626cec99767_hbovodhd/dash0/MYS_index.mpd
 
+#EXTINF:-1 group-title="MOVIE" tvg-logo="http://pictures.my.id/images/tigergate.png",Dragon Tiger Gate 
+http://abf.filmbluray.id/3a90hb1
+#EXTINF:-1 group-title="MOVIE" tvg-logo="http://pictures.my.id/images/meg.png",The Meg 
+http://abf.filmbluray.id/3b5izut
+#EXTINF:-1 group-title="MOVIE" tvg-logo="http://pictures.my.id/images/Kung-Fu-Panda-Series.png",The Paws of Destiny 03
+http://abf.filmbluray.id/3bepvs2
+#EXTINF:-1 group-title="MOVIE" tvg-logo="http://pictures.my.id/images/post.png",The Postcard Killings 
+http://abf.filmbluray.id/3bzj3xa
+#EXTINF:-1 group-title="MOVIE" tvg-logo="http://pictures.my.id/images/spacejam.png",Space Jam (1996)
+http://abf.filmbluray.id/3cx6uf3
+#EXTINF:-1 group-title="MOVIE" tvg-logo="http://pictures.my.id/images/dee3.png",Detective Dee : The Mystery of The Phantom Flame 
+http://abf.filmbluray.id/3h05694
 
+#EXTINF:-1 group-title="MOVIE" tvg-logo="http://pictures.my.id/images/James-Bond-1965.png",Thunderball 
+http://abf.filmbluray.id/3lyp3vw
+#EXTINF:-1 group-title="MOVIE" tvg-logo="http://pictures.my.id/images/greyhound.png",Greyhound 
+http://abf.filmbluray.id/3n7ww14
+#EXTINF:-1 group-title="MOVIE" tvg-logo="http://pictures.my.id/images/13.png",Ocean's Thirteen 
+http://abf.filmbluray.id/3nyrof3
+#EXTINF:-1 group-title="MOVIE" tvg-logo="http://pictures.my.id/images/exp1.png",The Expendables 1 
+http://abf.filmbluray.id/3kwb55n
+#EXTINF:-1 group-title="MOVIE" tvg-logo="http://pictures.my.id/images/exp3.png",The Expendables 3 
+http://abf.filmbluray.id/3pnemqu
+#EXTINF:-1 group-title="MOVIE" tvg-logo="http://pictures.my.id/images/wendy.png",Wendy (2020)
+http://abf.filmbluray.id/3si6aqm
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/intel.png",Central Intelligence 
+http://abf.filmbluray.id/3w66sgj
+#EXTINF:-1 group-title="MOVIE" tvg-logo="http://pictures.my.id/images/mib2.png",Men in Black 2 
+http://abf.filmbluray.id/3zp1caf
+#EXTINF:-1 group-title="MOVIE" tvg-logo="http://pictures.my.id/images/mag7.png",The Magnificent Seven 
+http://abf.filmbluray.id/43divgq
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://photos.my.id/images/eKId.png",Under the Skin 
+http://abf.filmbluray.id/444vvpf
+#EXTINF:-1 group-title="MOVIE" tvg-logo="http://pictures.my.id/images/primal.png",Primal 
+http://abf.filmbluray.id/473okas
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://photos.my.id/images/eNWb.png",Monos 
+http://abf.filmbluray.id/48kll0y
+#EXTINF:-1 group-title="MOVIE""SUB INDO" tvg-logo="http://pictures.my.id/images/trip.png",Bad Trip 
+http://abf.filmbluray.id/4biqd0n
+#EXTINF:-1 group-title="MOVIE" tvg-logo="http://pictures.my.id/images/harry2.png",Harry Potter And The Chamber Of Secrets 
+http://abf.filmbluray.id/4bnd6kb
+#EXTINF:-1 group-title="MOVIE""SUB INDO" tvg-logo="https://photos.my.id/images/exOK.png",The Meaning of Life 
+http://abf.filmbluray.id/4cq6mq5
+#EXTINF:-1 group-title="MOVIE" tvg-logo="http://pictures.my.id/images/beast2.png",Fantastic Beasts : The Crimes of Grindelwald
+http://abf.filmbluray.id/4d86m6g
+#EXTINF:-1 group-title="MOVIE" tvg-logo="http://pictures.my.id/images/note1.png",Death Note 1 
+http://abf.filmbluray.id/4dujbbr
+#EXTINF:-1 group-title="MOVIE" tvg-logo="http://pictures.my.id/images/fong1.png",Fantastic Four 
+http://abf.filmbluray.id/4ebzwum
+#EXTINF:-1 group-title="MOVIE" tvg-logo="http://pictures.my.id/images/Final-Destination-4.png",Final Destination 4 
+http://abf.filmbluray.id/4lk4ia7
 
 
 
