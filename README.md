@@ -260,42 +260,6 @@ https://www.googleapis.com/drive/v3/files/15HajAAaBRY_Q2qGzHsbaFAdLiMbrydyE?alt=
 
 
 
-#EXTINF:-1 tvg-name="My Stupid Boss (2016)"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3V16r41x68R6uVHpm9TIga5593T.jpg"group-title="FILM INDONESIA",My Stupid Boss (2016)
-https://ktpremium.com:443/movie/A0112/8544/10251.mp4
-#EXTINF:-1 tvg-name="Asih (2018)"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8MrGgEL8FrbaNIZwjSlWmwiDPGQ.jpg"group-title="FILM INDONESIA",Asih (2018)
-https://ktpremium.com:443/movie/A0112/8544/19790.mp4
-#EXTINF:-1 tvg-name="Dignitate (2020)"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5C18wEMckq0oAPUmotD6qg2y1cg.jpg"group-title="FILM INDONESIA",Dignitate (2020)
-https://ktpremium.com:443/movie/A0112/8544/21267.mkv
-#EXTINF:-1 tvg-name="The Raid (2011)"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Abnm1Ws3JH0ReCfEhLMPwPcMcGO.jpg"group-title="FILM INDONESIA",The Raid (2011)
-https://ktpremium.com:443/movie/A0112/8544/26738.mp4
-#EXTINF:-1 tvg-name="The Raid 2 (2014)[BM]"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/olA39iaXISiKEkACdELgr0ZRvIF.jpg"group-title="FILM INDONESIA",The Raid 2 (2014)[BM]
-https://ktpremium.com:443/movie/A0112/8544/26739.mp4
-#EXTINF:-1 tvg-name="Rasuk 2 (2020)"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePSLlYP1wyTi1lkNn6pdfuLAmDf.jpg"group-title="FILM INDONESIA",Rasuk 2 (2020)
-https://ktpremium.com:443/movie/A0112/8544/27496.mp4
-#EXTINF:-1 tvg-name="Rasuk (2018)"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZWkNN3qvvnsOUf2ApI0kkv8YjM.jpg"group-title="FILM INDONESIA",Rasuk (2018)
-https://ktpremium.com:443/movie/A0112/8544/27497.mp4
-#EXTINF:-1 tvg-name="Sebelum Iblis Menjemput（2018）"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i3UqtKPPWmDX4514kWF8hluCbsk.jpg"group-title="FILM INDONESIA",Sebelum Iblis Menjemput（2018）
-https://ktpremium.com:443/movie/A0112/8544/27503.mp4
-#EXTINF:-1 tvg-name="Sebelum iblis menjemput ayat 2(2020)"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r2eF7XX8Xgjsu5Td4eMVNf1F888.jpg"group-title="FILM INDONESIA",Sebelum iblis menjemput ayat 2(2020)
-https://ktpremium.com:443/movie/A0112/8544/66323.mp4
-#EXTINF:-1 tvg-name="The Doll 2 (2017)[NO SUB]"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y10Ll8lFOIZNIVxvraVirT1GMT5.jpg"group-title="FILM INDONESIA",The Doll 2 (2017)[NO SUB]
-https://ktpremium.com:443/movie/A0112/8544/300635.mp4
-#EXTINF:-1 tvg-name="Asih 2 (2020)"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2nJZIGQ934KjmenXXHWynGHnXD.jpg"group-title="FILM INDONESIA",Asih 2 (2020)
-https://ktpremium.com:443/movie/A0112/8544/397041.mp4
-#EXTINF:-1 tvg-name="Milea (2020)"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tRs5EYnviBBn79lQwGW2JLZp93v.jpg"group-title="FILM INDONESIA",Milea (2020)
-https://ktpremium.com:443/movie/A0112/8544/435901.mp4
-#EXTINF:-1 tvg-name="My Stupid Boss 2 (2019)"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BrR3rQUAKBw2sfZ8rMiCyLOeEI.jpg"group-title="FILM INDONESIA",My Stupid Boss 2 (2019)
-https://ktpremium.com:443/movie/A0112/8544/463661.mp4
-#EXTINF:-1 tvg-name="The Night Comes for Us (2018)"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8lI1p5cPqgXN2qrKZrmI3mhKBfs.jpg"group-title="FILM INDONESIA",The Night Comes for Us (2018)
-https://ktpremium.com:443/movie/A0112/8544/471099.mp4
-#EXTINF:-1 tvg-name="The Doll (2016)"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvbE67kjH7aeXKMTCdULIfw6U28.jpg"group-title="FILM INDONESIA",The Doll (2016)
-https://ktpremium.com:443/movie/A0112/8544/473683.mp4
-#EXTINF:-1 tvg-name="Terlalu Tampan (2019)"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nAervZUh0oosR06cZtNrRWKIGBs.jpg"group-title="FILM INDONESIA",Terlalu Tampan (2019)
-https://ktpremium.com:443/movie/A0112/8544/499155.mp4
-#EXTINF:-1 tvg-name="Sobat Ambyar (2021)[ENG]"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2oLGBRBZNHzhZv06pKWEFkGY0D.jpg"group-title="FILM INDONESIA",Sobat Ambyar (2021)[ENG]
-https://ktpremium.com:443/movie/A0112/8544/514965.mp4
-
-
 
 
 
