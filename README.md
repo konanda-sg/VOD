@@ -192,7 +192,157 @@ http://103.30.87.238:443/movie/wadmanet/norlec212/5979.mp4
 #EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",1917 
 http://103.30.87.238:443/movie/wadmanet/norlec212/5980.mp4
 
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Lightyear 
+https://data03.streamku.xyz/mv/21a-lightyear.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Me Time 
+https://data03.streamku.xyz/mv/29a-me.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Seoul Vibe 
+https://data03.streamku.xyz/mv/29a-seoul.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Samaritan 
+https://data03.streamku.xyz/mv/29a-samaritan.mp4
 
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",The Battle at Lake Changjin II 
+https://data03.streamku.xyz/mv/a-water.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Jurassic World Dominion 
+https://data03.streamku.xyz/mv/13a-jurassic.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Top Gun: Maverick 
+https://data03.streamku.xyz/mv/28a-top.mp4
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Luck 
+https://data03.streamku.xyz/mv/14a-luck.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Prey 
+https://data03.streamku.xyz/mv/14a-prey.mp4
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Purple Hearts 
+https://data03.streamku.xyz/mv/11a-purple.mp4
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Paradise Highway 
+https://data03.streamku.xyz/mv/11a-paradise.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Honor Society 
+https://data03.streamku.xyz/mv/11a-honor.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Not Okay 
+https://data03.streamku.xyz/mv/20a-not.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",The Roundup 
+https://data03.streamku.xyz/mv/7a-roundup.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",The Gray Man 
+https://data03.streamku.xyz/mv/6a-gray.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",The Other One 
+https://data03.streamku.xyz/mv/1a-thewitchpart2.mp4
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Vikram 
+https://data03.streamku.xyz/mv/6a-vikram.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5J8J6NRVUWnu52guqZRbgYzosJ.jpg" group-title="MOVIE",CANDRAMUKHI
+#EXTVLCOPT:http-referrer=https://emturbovid.com
+https://ss314.monefiles.com/stream/2/8B/j6avEvJUaQFeqkqkhY58LaQz6tztzL1MOZK/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/77lsmFGy2owudc1BZpabXJMNsIv.jpg" group-title="MOVIE",DO YOU LOVE ME?
+#EXTVLCOPT:http-referrer=https://emturbovid.com
+https://ss18.henesu.com/stream/0/B6/DZQ2WGJYzZoWlLZ21Tu1EB2mUnYfc3ylom7/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wQfPQOpcZPKpq8tuCkyViQHvNKC.jpg" group-title="MOVIE",MY WORST NEIGHBOR
+#EXTVLCOPT:http-referrer=https://emturbovid.com
+https://ss316.magizfile.com/stream/F/85/mT9Sa9HiAdTjqTlkmYd7gH1gnpGGEQ318Z5/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ruujFw7J0Nd3BSjbN3QODym82Qs.jpg" group-title="MOVIE",DEEP FEAR
+#EXTVLCOPT:http-referrer=https://emturbovid.com
+https://ss354.muncoday.com/stream/D/2B/9WIdKaoNyzb1sR2nDc1DSxQABVYQ6OKSxe5/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qtQr6SjbYSTLinKO6JLPHSx92EY.jpg" group-title="MOVIE",TUHOG
+#EXTVLCOPT:http-referrer=https://emturbovid.com
+https://ss309.dominofile.com/stream/4/1F/8U2MOARy2E4nOEhRYfssflMvT2xSVvd8oP1/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7SGgZ5yDKmEiGHcTxxVeYaFD2fD.jpg" group-title="MOVIE",ANG MANANANGGAL
+#EXTVLCOPT:http-referrer=https://emturbovid.com
+https://ss288.quenedi.com/stream/7/55/1a0q7c03UdGICSXTGwP3F5PHMQAXYNTSi28/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eUnUV9kLG8XR9iY7GVndvO8Ot5n.jpg" group-title="MOVIE",PEBBLES
+#EXTVLCOPT:http-referrer=https://emturbovid.com
+https://ss09.fupimg.com/stream/3/2C/DadhN5ekhjRouqqy7lI478HXXzGrVnrE0S5/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hHKTXxJ3lN8ruHAg5YvpXIQtjc7.jpg" group-title="MOVIE",JAWAN
+#EXTVLCOPT:http-referrer=https://emturbovid.com
+https://ss365.thiennq.com/stream/2/98/PNERiulsGWvB1uXBIKY4LS6auq8JbBIlvCc/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kh7DY2ecv9aSFIKwxtpX0awRtYZ.jpg" group-title="MOVIE",BUTCHER'S CROSSING
+#EXTVLCOPT:http-referrer=https://emturbovid.com
+https://ss329.sunsitech.com/stream/9/91/s3yImMGIvv6YmqJJepSzHk0lDsiutqD388i/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/clqjSOghnY9OxmqkrdS9nHMnKEz.jpg" group-title="MOVIE",THE POINT MEN
+#EXTVLCOPT:http-referrer=https://emturbovid.com
+https://ss285.vibanes.com/stream/A/47/L3VxGzxThEdrk1tGRbVAZclHb2plcSnm5gI/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/38oREG1dTSLyIPhdzZ1Cb67AoLD.jpg" group-title="MOVIE",MERCY ROAD
+#EXTVLCOPT:http-referrer=https://emturbovid.com
+https://ss289.nihaony.com/stream/1/95/56Q2iyD17i3ItZOdz8MxXwY0ItEhmA28Pcv/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/et67QHZlzgbPwU4zC7o2iwRIrcz.jpg" group-title="MOVIE",THREE EXTREMES
+#EXTVLCOPT:http-referrer=https://emturbovid.com
+https://ss55.monobep.com/stream/0/5E/xerTU7RXfMxecNSyz06V8sj8hM1JBWDa34x/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sq61lHgNdKyvpXOgwhZoc4Iosno.jpg" group-title="MOVIE",HADDI
+#EXTVLCOPT:http-referrer=https://emturbovid.com
+https://ss302.uptosharez.com/stream/9/9F/k415SyO4plF1CMAwh3kyfe9vLA10YMoDoyd/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xrmOrAbQBrRbUF6vbulH5uWfCFM.jpg" group-title="MOVIE",MUJRIM
+#EXTVLCOPT:http-referrer=https://emturbovid.com
+https://ss306.montfile.com/stream/2/12/Jzu35qdxb19C4UfrHJsTKnithURr1ndvM9p/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fo6YgVlipY8YDmvem7UG1GbulxI.jpg" group-title="MOVIE",A LIGHT NEVER GOES OUT
+#EXTVLCOPT:http-referrer=https://emturbovid.com
+https://ss316.magizfile.com/stream/B/D7/5tVKeGVSuuZBHakv5nz6mg2B9Yz4a67y0Ex/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rC1Y6fjwcJWUz8lh5d4v0bEa8t2.jpg" group-title="MOVIE"THE Y
+#EXTVLCOPT:http-referrer=https://emturbovid.com
+https://ss324.tenisound.com/stream/0/94/l2q91OeY63Il9F3TFQndepbJPVmhOJM81Hh/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hceweZ2pcrZ2a40pqBEGegTbO4W.jpg" group-title="MOVIE",RED SANDAL WOOD
+#EXTVLCOPT:http-referrer=https://emturbovid.com
+https://ss287.vitunews.com/stream/E/CD/WpRCQ3K1T4dkvvcsKdHcdLHhRe4hG5ljNGP/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/e3mAfFdiKrdhQ3lHtzGRYBWDggj.jpg" group-title="MOVIE",RED SANDAL
+#EXTVLCOPT:http-referrer=https://emturbovid.com
+https://ss349.jamsiu.com/stream/4/A1/ijXHtvhNOqJC7YYaMlVVBNkCiMOpGtqQzcj/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1gJ21CNU2o4k8xfDoPFzG6BUwIW.jpg" group-title="MOVIE",CASE 30
+#EXTVLCOPT:http-referrer=https://emturbovid.com
+https://ss348.shinauon.com/stream/9/26/SOo6aqljuyKNCLmpQf9PFdp51uYLsgXezmn/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uS60bGoYIEf81hLy1sAGY22VBDJ.jpg" group-title="MOVIE",METRONOM
+#EXTVLCOPT:http-referrer=https://emturbovid.com
+https://ss344.croissanty.com/stream/C/B9/3X54vpJx4IuE5205qWRoW2ciuQO2ojuMHoT/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/miPSRVOdCcc59DcLoTQoKdKpvTK.jpg" group-title="MOVIE",VOLEUSES
+#EXTVLCOPT:http-referrer=https://emturbovid.com
+https://ss346.skyofile.com/stream/6/75/aUGdP2Xo4OW43033qSvbRMOvf8GQrknHxaa/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dZWdBV1Zsqlw21mQAtlAvaMm1Mx.jpg" group-title="MOVIE",A MURDER ERASE
+#EXTVLCOPT:http-referrer=https://emturbovid.com
+https://ss316.magizfile.com/stream/7/3A/EMib9noD9ALO3TOShY19mUU9AYVaSUHN1Jt/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/haEq3fdI25jEanySFHU3ifWhlog.jpg" group-title="MOVIE",IN THE SHADOWS
+#EXTVLCOPT:http-referrer=https://emturbovid.com
+https://ss344.croissanty.com/stream/D/02/PK57ZPUPmx9nHq77Z9gRtG8chu4f3F6UXO7/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vQylGSKL0CJRqaGTTSrvf57P3c.jpg" group-title="MOVIE",THE JOURNEY OF A BOXER
+#EXTVLCOPT:http-referrer=https://emturbovid.com
+https://ss300.hanabake.com/stream/8/C9/MW78L54QVddh8ozGfUGiqd7NnMBJCVHL6cO/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/blQaj6biyBMLo34cuFKKwbgjIBz.jpg" group-title="MOVIE",LOCKED IN
+#EXTVLCOPT:http-referrer=https://emturbovid.com
+https://ss286.vibanews.com/stream/1/08/tcXRNOaEJCJKhVRDxAhHRpbOgCa5WkxTV0x/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cY3TJxjBhFcvKLA6QnDUi0zSbqc.jpg" group-title="MOVIE",BIRTHRIGHT OUTLAW
+#EXTVLCOPT:http-referrer=https://emturbovid.com
+https://ss334.macquen.com/stream/6/06/lgv593LOV5ER27KegMEL6nqJK3uY7CxR2uI/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tHRFwdi3mV36klGfiiA5BNoy9JA.jpg" group-title="MOVIE",THE SHIP SHOW
+#EXTVLCOPT:http-referrer=https://emturbovid.com
+https://ss09.fupimg.com/stream/A/AF/5aMURFzMCBILP1d6sPenxxPqZIvcGQAY6L1/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/AdbW7twzKs4UtdgNzYcMWdFXCAV.jpg" group-title="MOVIE",STILL HUMAN
+#EXTVLCOPT:http-referrer=https://emturbovid.com
+https://ss326.tylenews.com/stream/E/B3/hgZqwiIjPymuZlzEca90s2QKvwtf6iulwJa/master.m3u8
 
 
 #EXTINF:0 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/originald/041162X0-landscape.jpg" group-title="MOVIE",Meg 2
