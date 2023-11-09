@@ -439,7 +439,111 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/611a14af2bd0bb5cd89
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3c6ab181ec7c3e5cbe9ed3a8fee825be:d34a7fd345fdd5b3d2c3d168a07ac988
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64375cdcd940521074ce4d58_hbovodhd/dash0/MYS_DOLBY_index.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0d/Avengers_Endgame_poster.jpg" group-title="Marvel", Avengers End Game
+https://privatemaster.xyz/cdn/stream/master/HEXtY9R50x4L2GQ0Z8sAAGG2hpA0anMtBqaSCudC6axw741VvGAan6HSXpMWPUSJ7HZEL2YXFt652b1nrbWgX4Fs43zI3QPBBdcUDnmCLqqG7BvGW0nVr89u4vKS0Bsa/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://tv1.lk21official.wiki/wp-content/uploads/2016/01/film-iron-man-2008.jpg" group-title="Marvel", Ironman 1
+https://privatemaster.xyz/cdn/stream/master/sihXpc3rOi1hgAejU8nIfHXPwKtntDJcnNQdwB2eDFFReKqCFkZ1IHSZiVSqU9wmyDYz48rv2n4pvHYUDsoglyd4BS7vDt58eQ5lMXsHrTjl409QIMenRNIeIjCkeTto/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Iron_Man_2_poster.jpg" group-title="Marvel", Ironman 2
+https://privatemaster.xyz/cdn/stream/master/pciIold8MZ2Sggnr2UzvPGqG20G4o96yLfq7aKhaiul4grkC1T1L5ZiYhTco96NZRSaktKXMwZz4N5cA5iRKgByGlRwlslwxoa0yRh6npjKF875ocAVyDIfTgoHeSCff/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.mycast.io/posters/the-avengers-2008-fan-casting-poster-242954-large.jpg?1664471709" group-title="Marvel", Avenger 2012
+https://privatemaster.xyz/cdn/stream/master/mWjRTWKuMT38HPM20GfhSvnCQh9Mp8ZbVijWWfp434PebpR9LO9jPrLKV505AzsXGtiv4D2vveMJjwOR43mUZCmlqYacYlyJz7PCvjkPSS4CsuARQQuMH9xyFbM58e41/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv1.lk21official.wiki/wp-content/uploads/2018/02/film-black-panther-2018.jpg" group-title="Marvel", Black Panther (2018)
+https://privatemaster.xyz/cdn/stream/master/MYg7nc5UMbm3UJTtkA9pC73fIl82HLQh8NBUodyyng3TPtnAM372f1NzkNXyoc0TEnodKVXKLaulCG7MYeb8lLpo8wqfDTNYpE7y7RJ11B36FFDfUXaIjsdN6QpuNzwi/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1b/Avengers_Age_of_Ultron.jpg" group-title="Marvel", Avenger Age of Ultron
+https://privatemaster.xyz/cdn/stream/master/TIjhMr3w2HRon3p7drkU4BKY1AguqIfQSiw2VZxE012ZD1ZgMfUbDQUmkueYDSZPFZzS4GvjnLFzyASriqxmvkeQT0DXNfBgB08SkV1gO3iepIln0cbwR0RweYNTtWpH/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv1.lk21official.wiki/wp-content/uploads/2023/01/film-black-panther-wakanda-forever-2022-lk21-d21.jpg" group-title="Marvel", Black Panther: Wakanda Forever (2022)
+https://privatemaster.xyz/cdn/stream/master/brJ7XmAlfO29QvxT3Sw9aDLLHOVqI0qLgAocCxlqMUVNyWJTHUNj5vauKrrFodSBJZjRihpxATOWxdak5x2HQKnJT9WbTBkCyxD8QoCW6DoHNdoYwgS8E2LAxAMh98Ux/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://pusatfilm21.art/wp-content/uploads/2019/03/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg" group-title="Marvel", Captain Marvel (2019)
+https://privatemaster.xyz/cdn/stream/master/Z17jUQ5HD3eMBbtvYYhFg175pwPMnA9qh8pHiHqBBViK7ENWQOYjTvfbT1lI5EF1pKxxjYsjDOduCR5J1A0ZB6d6iDVScFjoXBB23Wj9RoKClIUPrTBm40w3wcMiHSpZ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv1.lk21official.wiki/wp-content/uploads/2017/07/film-spider-man-homecoming-2017.jpg" group-title="Marvel", Spider-Man: Homecoming (2017)
+https://privatemaster.xyz/cdn/stream/master/jS5f0Eymhn2M5HkS949rlkJNABlv8k3O74eBRWpL4QeRFb7dNUJTRAK68Rhj4VC4I80p4EmBHgC41WPzk7ZkXqOQsJo8zsoRRCaGQA0XzcIIzztupx7ASHTjKQX8i0Yn/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv1.lk21official.wiki/wp-content/uploads/2021/12/film-spider-man-no-way-home-2021-lk21-d21.jpg" group-title="Marvel", Spider-Man: No Way Home (2021)
+https://privatemaster.xyz/cdn/stream/master/5jKTmIiGuyKYIuYC5UQMRwREQJ3yg1c4FMAYV6CfcTHxwNQJbwrzOkXHBqqJaqfW4WHYO0lmIreayaXpx98Sxag5b3w2FyqxNbLnecJp1EPdcts5f3FJovZ4vQ8ojw1K/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv1.lk21official.wiki/wp-content/uploads/2019/07/film-spider-man-far-from-home-2019-lk21.jpg" group-title="Marvel", Spider-Man: Far from Home (2019)
+https://privatemaster.xyz/cdn/stream/master/cNvp7VRcWcc0bfLjJbOXhhhapB7kp7CHyPv1yQVQ2SWeeBkZ0QExOg3cj6rhI2HLD2h6jCmGEm6bHy27u0wty04wVbJJqlaw64sEMpwDfOEusRzRTyW2akhdF1pAvVU1/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/community/media/visual/2018/03/19/1af717fe-3c85-4836-8a4b-e48f2fa00a50.png?w=1200" group-title="Marvel", Avenger Infinity War
+https://privatemaster.xyz/cdn/stream/master/OVOfZWovj6taEJhQYYTsI6UMahQvrvMJx15YhW1sARJsOrzYERroIG8mQEZYhognbde33edatrjcbpBZAZaSQOfJZlAFNeXYTUpQivn7YxTkKMMzglukNy5YKfC80zmF/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://pusatfilm21.art/wp-content/uploads/2018/03/vSNxAJTlD0r02V9sPYpOjqDZXUK-60x90.jpg" group-title="Marvel", Captain America: The First Avenger
+https://privatemaster.xyz/cdn/stream/master/wArP4zWmbop8Npnvfr4a3vBqdxmEg5VX262ZocJQFg75w5e1iKO1U10GB1pbNOYagzO7RBjNt2LGA0c7AGlsibvyrezICSnWt5hobqyqM6onPTcHxuKAmDfazfGouRCY/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://pusatfilm21.art/wp-content/uploads/2022/11/tVFRpFw3xTedgPGqxW0AOI8Qhh0-60x90.jpg" group-title="Marvel", Captain America: The Winter Soldier
+https://privatemaster.xyz/cdn/stream/master/2vAncV3LOV3bW3hnRbJIaeYvqPSeBd7IrjCF7nfrbuQCvKGk3ZDuRHHtrh3PQfOUblPW1dd2Pkm6v7Ddr8o7eDQ4BWpT54fee8UTkqT7JwxSBBaR6ZHYRW0Vu0pU3bic/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://pusatfilm21.art/wp-content/uploads/2021/01/rAGiXaUfPzY7CDEyNKUofk3Kw2e-60x90.jpg" group-title="Marvel", Captain America: Civil War
+https://privatemaster.xyz/cdn/stream/master/2vAncV3LOV3bW3hnRbJIaeYvqPSeBd7IrjCF7nfrbuQCvKGk3ZDuRHHtrh3PQfOUblPW1dd2Pkm6v7Ddr8o7eDQ4BWpT54fee8UTkqT7JwxSBBaR6ZHYRW0Vu0pU3bic/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://pusatfilm21.art/wp-content/uploads/2021/08/prSfAi1xGrhLQNxVSUFh61xQ4Qy-60x90.jpg" group-title="Marvel", Thor (2011)
+https://privatemaster.xyz/cdn/stream/master/UNnESydZPAB3DHlL3mgN1DLY7s9mgbs3IQQQFu8ETYFt17CaIeEhFqAdARyvc00fhL8YBYe7QhD3xttufkPnnG6o2HuizPLMEOjsAo4HiM176nV2NhNcutukTmyUgO09/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://pusatfilm21.art/wp-content/uploads/2021/08/wp6OxE4poJ4G7c0U2ZIXasTSMR7-60x90.jpg" group-title="Marvel", Thor: The Dark World (2013
+https://privatemaster.xyz/cdn/stream/master/uIc44DOIUEmjL3sLoZMuHHXl3NWf3qpQNvbKHUhr3SlRfkngyaEDaHn2vbUwvUNIB5tiLXNDisBecEKkjA2XDGuBNiylB4bPz3boi9CGI4P7EaDddFuli9NE9sEnn2w1/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://pusatfilm21.art/wp-content/uploads/2022/11/rzRwTcFvttcN1ZpX2xv4j3tSdJu-60x90.jpg" group-title="Marvel", Thor: Ragnarok (2017)
+https://privatemaster.xyz/cdn/stream/master/F7UYToQIlrfCh5RmK8pkXgGKzuNw17lvOniOVXdy8vIDylQJZZ9t8AHdUzG1awkR5kzWsy3RwB2QS5gxfugD9PthxD4Bt2eXouSuRVFspnu7YgLdyOXEKOak5Vfd00S2/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://pusatfilm21.art/wp-content/uploads/2022/07/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg" group-title="Marvel", Thor: Love and Thunder (2022)
+https://privatemaster.xyz/cdn/stream/master/IBoXq9CRs9NsPdxiJwyPbOUEclcXD6JNBypwZq85Xkg7VhyFAoE8UMQDnqL9H7fWdxnvcJgpoVojeWg2wtBmCeSTgxQTlKgFFDRlWWIgY73ibiVzyYaEx0oMrWgOqIhl/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2016/01/film-iron-man-3-2013.jpg.webp" group-title="Marvel", Ironman 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+https://ss42.snapwu.com/stream/8/74/ZwqUUZH9EBiDaArVqTHGZf6fjAkUBD5nV76/hls480/ZwqUUZH9EBiDaArVqTHGZf6fjAkUBD5nV76480.m3u8
+
+#EXTINF:-1 tvg-logo="https://pusatfilm21.art/wp-content/uploads/2022/11/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg" group-title="Marvel", Guardians of the Galaxy (2014)
+https://privatemaster.xyz/cdn/stream/master/7rY0BqR7ZUaTosaGjXkouQsxTotnpHMdBFQMrfsQBDi8hKzKNy6peSmnDUxzEpSHNAuysFAXRUMj0oC5qz0WDDOv4i3KyKWrGFVjhLdggQGTdRL3AS3LmCmkBPMMZVpH/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://pusatfilm21.art/wp-content/uploads/2017/10/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg" group-title="Marvel", Guardians of the Galaxy Vol. 2 (2017)
+https://privatemaster.xyz/cdn/stream/master/4RdZ9ga2P12We507dzefIpU76FTs9uYMlcLCH4UCLtybpnmQ7VPOlHCRcoSK0tbD8WIzGC0G86OsJEczgNGQE0QUH591RnQ6YHtbkwi2V2Y9YnVEzmjHUWmCWTiOuY3V/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://pusatfilm21.art/wp-content/uploads/2023/05/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg" group-title="Marvel", Guardians of the Galaxy Vol. 3 (2023)
+https://privatemaster.xyz/cdn/stream/master/q5pvMDdKxl6JhLj2yjp6wQ3DTO8n9HbHVEMZ4BOeaN8J6xHOffFprQebscGrJIPB7ya8auBrLwAmLgW0eUtrVYRyB1aMzCw9rNR8uCf1Wn4XOOYioyNtnjQxXjDmixUo/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://pusatfilm21.art/wp-content/uploads/2022/11/7WfK17BXE6szXlm4WOxfswgbdsL.jpg" group-title="Marvel", Doctor Strange (2016)
+https://privatemaster.xyz/cdn/stream/master/cNpjoyiIAikhJMnBYWGCYHGx8E7n5XqSky1cn3QyOS6CCqR7HYo0JGTYbDUDRfdIqwdJqspTduh5ATeMGIGJRkRTl9qAMkNUr62Yi82G05txeq4gGEJonAFB98ibmnnY/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://pusatfilm21.art/wp-content/uploads/2022/06/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg" group-title="Marvel", Doctor Strange in the Multiverse of Madness (2022)
+https://privatemaster.xyz/cdn/stream/master/EqaXsL53RE4PZ9YUKSa4ENmsdwfBubxMSGKiLxV3qfjYnU9278y3piJEAiRuQeRfKdCArP68bVPXL0FsStVLIZNK2kpfjhOEItJsMy9mN6rVmCNJDrE5PuO2WPkVJyr5/master.m3u8
+
+
+=============================================================================
+
+#EXTINF:-1 tvg-logo="https://cdn-a.pusatfilm21.info/wp-content/uploads/2023/10/g9ksiIwYUUTWMR1PH22p8YAfUR1-60x90.jpg" group-title="FILM", Doraemon: Nobita’s Sky Utopia (2023)
+https://privatemaster.xyz/cdn/stream/master/7GVJOuUYQOMiEhoizvS4XjpFKoGg4LFJUX2LeL0qyL9f5kFkEFdu23yRfRKnzS4XXJmpnzGGT3UjWL1Zpyt5Wgq8bN8EZOnGcEj1XC8gfdOY3qRPn797p0vOiCST3dVv/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/580b57fbd9996e24bc43c081.png" group-title="FILM", Transformers 1 (2007)
+https://privatemaster.xyz/cdn/stream/master/BiNuTIxLWoxzhMeSkMAFTAmXEGth1GgHuAH9MAwfjPmHaM9OpokycTYNTRYvb9QDpFz1iSDc52PUd75BH9LuyYWoNiWAMVrkbDffNQsbKRdSIlCg2rZEAn7iw5lGYMoz/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/580b57fbd9996e24bc43c081.png" group-title="FILM", Transformers 2: Revenge of the Fallen (2009)
+https://privatemaster.xyz/cdn/stream/master/UGuj5PLTomDTpMas2PAyDjv4B2X0by7Foj0Tcf1SVVAm4mvpAUBMroJu9yzACxIlyRZM9exgPI36I6w4AyjMUQHTGZjuz8Y09gxIrBr4dcqpJNS3eTpvaIRt0WEt2FZT/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/580b57fbd9996e24bc43c081.png" group-title="FILM", Transformers 3: Dark of the Moon  (2011)
+https://privatemaster.xyz/cdn/stream/master/mqRXxqN3aAod7VPCVfvJzweMn25cw1Bjj3aRTMxWPigAIvIGqWbCcOJJwwQAsPCibtudRBJscHRuYvNJjfsn6PY031XNaweF7BxwVAVW19hx5ebKEkkvDFEm223YPDCD/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/580b57fbd9996e24bc43c081.png" group-title="FILM", Transformers 4: Age of Extinction (2014)
+https://privatemaster.xyz/cdn/stream/master/lil4csqeL7SfvseXYDqzJ3YTVDD7Pa4Flk0zkcEFEDtxfHjltTgGdiRKLBhbR2aVXIxU1aDBEScOCQbWTxElECGTpZaSHfRheIqYQYZJkEpUOJr5nMiNYxfCnPQ5vroL/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/580b57fbd9996e24bc43c081.png" group-title="FILM", Transformers 5: The Last Knight (2017)
+https://privatemaster.xyz/cdn/stream/master/yoBcrQflOD9AVUR0g4wCfZAKyQjUNJKYFVg6E5BvybGEOB5MruwiIgJ5IuNKWDx5yhZGykW6QhH0cLhUoTgDsRmbQTVHIvDj4ZGRdT3vK3BfOn9C8OzFxJBzR1JGAUbB/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/580b57fbd9996e24bc43c081.png" group-title="FILM", Transformers 6: Rise of the Beasts (2023)
+https://privatemaster.xyz/cdn/stream/master/743XWgJWf6KzszEwhOlQ4oFQ50T0LJGp5INiiKnUHhV23pJHSlzxPGJHOuSiQR7MChXiK9sLufK8gsYhlLwKkHex8nYUWyB0JgVBvBVx1xWXkpesGApA7jmWlV20QPP1/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://pusatfilm21.art/wp-content/uploads/2023/08/5BHuvQ6p9kfc091Z8RiFNhCwL4b-60x90.jpg" group-title="FILM", The Martian (2015)
+https://privatemaster.xyz/cdn/stream/master/ivON6rCd4Z0OKLftYePuULWTb8POlL0VRB7rwkPzV1d54WOGbUj141BRqKHJ1FEn7DLslgPOUHNXUnsUju6Dc8pzWEJnuW4aPfl1aV0rIgthQylWf9A2f0fYA0s85wKN/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-a.pusatfilm21.info/wp-content/uploads/2022/10/97vrfc2hi3WBlpua9VK6rHTgBbO-60x90.jpg" group-title="FILM", Passengers (2016)
+https://privatemaster.xyz/cdn/stream/master/r7UpATwwaiQMTexftSsTPk7eSMBi1trnvSOmxU8d6PTsgAwV6eoqS4IVPoVPLNVCbMIGgpOuvkGzR9xdo0tncPK5yMd0IO4eddtZkj2CL6ISIFZgo3fkjbWsOOJJaypj/master.m3u8
 
 #EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/tigergate.png",Dragon Tiger Gate 
 http://abf.filmbluray.id/3a90hb1
