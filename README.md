@@ -1322,7 +1322,79 @@ http://abf.filmbluray.id/4dujbbr
 http://abf.filmbluray.id/4ebzwum
 #EXTINF:-1 group-title="MOVIE" tvg-logo="http://pictures.my.id/images/Final-Destination-4.png",Final Destination 4 
 http://abf.filmbluray.id/4lk4ia7
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfRbsXMGjwmRCkWJdIISWLpgdX4dWsKgP--A&usqp=CAU" group-title="Movie New",Ambush (2023)
+https://dej3pa.bl.files.1drv.com/y4mRJktXu5Fz45U8uqe-kwVhQewwDY8KDOCIs7bpz_xUCw3J3Dvu0Dnj-T2BtNEKAJqcjkxNZU-XmHHKGjv55m7_nZpY4WWso2DrRLtuWRfKeTznPwKwILwVwPVQByy1FOxQ_qoAw74fXm3Oof3v81WAzhe2LifGZoFexgr6cvI_6unLnD70hYgR9wWmkI8Dk-BcDpNxAOU3YUEsfz5rusqIQ
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/an/Xt0q2bHBzd0/14035041647842474454_mq.jpg?v=63919330" group-title="Movie New",Candy Land (2023)
+https://wxkrnw.bn.files.1drv.com/y4mrD8SmhFYCGWfa9dhm_KbSXiDH3bQTOuFtVIlQRH2wUR4v1-O5aDoBNZeqhWDKnK90flm1m0UL406TqjxYQOTfZKpRbXRcCSnGdl8hR3fE_QkgrafjAGKLsKte-YZ222_BpqXPZt4vf7BvCW45OGr6Q7yGksjoAu3dOx4lpz7t_f3JGYVvFpd86LaWviZz1PUvifQ2a96x0vGrKj8kPqNgw
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1TVTSxbarRRFyd24dzYPy_N1VzyUfLL3eKA&usqp=CAU" group-title="Movie New",Consecration (2023)
+https://1w4avw.bn.files.1drv.com/y4mXj6BDLNSK13_BlmYSRAXAXFHTSqAkNLPEQSo2x4LIpxKHzH1k4QhwrTOvn3wWVsqQybEPUlFvS81roSo1FFRlpdt8PDeR4cTKfElwHOHQDlZXhLzPz08G4OUERSp0jFCAgaON4yCVaFNSOOx_Uom74JfJfN-kcAOYVqkeaWDs5ZN0XR1Ig2EveThcGtdJuIp5EBn3i1H6AgSJfd0mhh_bw
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn6qbLQsROCAegZ9wJJOf23zgr4Cu4CW60HA&usqp=CAU" group-title="Movie New",Detective Knight Independence (2023)
+https://dehcya.bl.files.1drv.com/y4mI61EJ8VzFkQsrnEnglIfijYZtT-4J7ww-EpPU_i6WubMqeG1XvX1FFT1ian5d6ZN_LYIJ6HYkGFm8B1qKryUlOayTLgu4-Baka1Bn1p2jRS_tTwmrHoGxRzfZpVLDXPOUkUxOBIhSTGbPWaXaQKqMMaV8Rc6rrfRYYPbItdTE0_EYqamlN6y5Yzjmc2yN2AMTtDiKnINacVdlmcQJepJFg
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAx1jkfle9qRhG7VBnKaZtVY3EZBPPIa-QXA&usqp=CAU" group-title="Movie New",Domme (2023)
+https://prgreg.sn.files.1drv.com/y4mGkwmdfDXemPikJVjbAJ2vWFh4DMsAjBl4j9VACsJKGpfNob1wgsJVZu465u72zV9E7f2U1PG2VQ3ikkgi_xOX3eTBUD2tLygp-6cAIVfZ9f-RIv4SZS774B-7Nu3PDuFO1oXTFsgpLHf7g2-zdedddW_nM14nQVxwBnDDN6XwUqIyZIZwaXvTFi9CKMFwrXECoYbr2YJe7vc-qjm6vVBuA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSIKWWXa1rrBcg29bCXsv_NfPRWxcCp-2Z2g&usqp=CAU" group-title="Movie New",Gangnam Zombie (2023)
+https://os9rtq.bn.files.1drv.com/y4mp6OqS9_R25sCWGl5aBcVZ1dfPqGHMo8vCJ2N53b1CGoF0XuujIT92_sMajPd3BF5eoO1bufQYN7KWF2-2DfAZ3VpDnRzC7eFpwmalY-0j9j2dy-dkhiq7uHV-pRNRNGIwFotIRuMiaolMnTZhqwT-q3AoZi4j5--Y2jYQu5Vy5kngfr6-8OgDq8Hyut4pqs4sHUexysqR77ycQwyFJKmgw
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGuSOL-ZV4hd6OQPGSbJ6Qj9ulHxTvVN9YQg&usqp=CAU" group-title="Movie New",House Party (2023)
+https://www.dropbox.com/s/k4ww0fi8co8wmtt/dzifp-housepart2023.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnpMcvoZz8oeo7vUGCKh1TIKQbW09h0Hyc-Q&usqp=CAU" group-title="Movie New",Jung-E (2023)
+https://v9jsrq.bn.files.1drv.com/y4mIzWm6ep4dLlpJl5yidqxs4KMCY7jn702X2KPd7KP3ssVrPk6oacEY3bes9PEPh56RH9S4VZsbqyZunuJgRdWNfNlK96O-MjjFDusSnfDlgqrvfspAYxdpyN-gzF_IrrskC8Jh-st-KhHJQHHp9UKqc69Nu5BjvrY7yQr2qsTBo7O0XpCIid055xcpoPYsbJYJWDQg6vRJr8oV2DjfUvXWw
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRslP6dayRtg4x1TrABFWCfdmpggJJJbWK8Uw&usqp=CAU" group-title="Movie New",Love At First Kiss (2023)
+https://d72ljg.bl.files.1drv.com/y4midZer4jCfLV7bz2kNqUN08ZH4e_Yo_V_WgNZ_2ZNuctrCLL3uWwq6yJTjAe0a47Pa5Rkr_zEDmUEgUSqRHxn_fv-5ueR8WpqmAkbCwPhBLur31-9V8Ltk4hcToahJdGuHyGLAlVUlCCCoXEL2Tkr9lxLvSlDv_qR_fK4-LOoubEOa01XXhrpt4KgDNTT_xgJw80UBHMMe7dTlC-kGa43iA
+#EXTINF:-1 tvg-logo="https://img7.cdn.cinoche.com/images/fe290c3d75e8a53c841f12edfe820b8a.jpg" group-title="Movie New",Night Train (2023)
+https://www.dropbox.com/s/ctr2usfjv9bphwy/D21.FUN-Night-Train-2023-1674777782.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMV0JnsaohDhYoE_aLMOI8zIyz7Uhr2Er48A&usqp=CAU" group-title="Movie New",Panther Swat (2023)
+https://osqqqa.bn.files.1drv.com/y4mY-uslm7LZjbUzNqDXfKhvlMh35DY_RZlX2UNmil6xc8bSY4A73ayRknCknz0TPw92Tl5XK90enhqpIrQOjk-btqK0HXZO84jQ9P_dvNK1hMTCYYH26yyDHOtnpThvObAX-gzCJu091GsuZSzidURzn_A3KLy-W0wUWf_w-ilJnaqN3X7B2_hMvqB5lNgk633EksXk5SfwVrwqQs0JVLVrg
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHylI1lWr_n86mgJ7EKj7AwKTrwZ78XH813g&usqp=CAU" group-title="Movie New",Supercell (2023)
+https://www.dropbox.com/s/rvofrvr53a2wva0/dzifp-supercell2023.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXFa8mfPMJyfnxsiuAapEl0FfaM-CM3Fy48Q&usqp=CAU" group-title="Movie New",The Devil Conspiracy (2023)
+https://www.dropbox.com/s/sivvl3w17h0n6d6/D21.FUN-The-Devil-Conspiracy-2023-1677941881.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-AuyboR1pLnqgqV_L1uD8Rgz5rtU7GkMeRA&usqp=CAU" group-title="Movie New",The Girl Who Escaped:The Kara Robinson Story (2023)
+https://nsg5bq.dm.files.1drv.com/y4mNjakybgeh-ZU6uq253IAlNMXwaeZZ_BfrU0ybWWPL1n_ftSCgNwc1_cjFH16oCmJvXZT6I5sILrmd4ZQqV7Ylsjg4OekVvpUUgtpqpONgGBDAEE64UvGfxqiKM3eQWsYWnHmWtLA46YuV0x9q8UBgy61Laszmz0G_dxQl5XTfvtT7KonaxJx0p3EOZCZ9uBGnNq3jhvfR8Wwk1JPyawN3A
+#EXTINF:-1 tvg-logo="https://s6.makimbo.xyz/wp-content/uploads/2023/02/film-the-point-men-2023-lk21-d21.jpg" group-title="Movie New",The Point Man (2023)
+https://d70ksg.bl.files.1drv.com/y4mIr9UBkryS4f2HBVTqu4f5dNCKq0nBd5NBNX1OS92SZHdY3xKnba3Vw85VKg0UOByEZVqUy4gn50wAnvivYVbdW3wVWTRD70X1Q4r-HMcoBIhdXvPwJy8u0xDcTLOETXB7c9NBd6hFyyTe5bwIPPJcwPbiTyMVTMulbiDZ-PHzT148F-hLpjlL3FqqOyYLYZdOFMC6K-QjhngUhtragV1rg
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8tQ3iY59mZUR2vwlW8NkBheBTlgd5Tu_jMg&usqp=CAU" group-title="Movie New",The Ritual Killer (2023)
+https://rzwang.sn.files.1drv.com/y4mWM88yWuK8ZM-Uxp8O3OXlaLd1z1Yj371r2iiiHsfuN9bfvmcsYKCrGjFfybMT1ywIjznvgBADeAva2hMS2vfHGO4tyDDaNlg9LAmWaJn62OKog7kvtJwIZF3A5Am6tGICdJ6EwQ4dTgOdI5mTS8S2Bi6BnHxcVC7VJYu6YHlezJ3ODHkBFYO-kOMBcMuPd-HbqfYLSiRzhCg9qRLwMHoLA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-lmPlqROh8byvjOs_nWpMMDX7_q3RIBsMTA&usqp=CAU" group-title="Movie New",The Super Mario Bross Movie (2023)
+https://www.dropbox.com/s/jcq80k98w4al71r/driveid-160454-hdrip-1080-terbit21-com-the-super-mario-bros-movie-2023.mp4?dl=1
 
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LPr8dpR/our-father.jpghttps://i.ibb.co/5Rk2jLb/chip.jpg" group-title="Premium Movie",Our Father (2022)Chip 'n Dale: Rescue Rangers (2022)Vendetta (2022)
+https://www.dropbox.com/s/23vkdtewgmsygtl/vendetta.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0BHKYHS/drstrange2.jpghttps://i.ibb.co/DfM26Wv/spiderhead.jpg" group-title="Premium Movie",The Unbearable Weight Massive Talent (2022)Dr Strange In The Multivers of Madness (2022)Spiderhead (2022)
+https://www.dropbox.com/s/412zym5htj20bzb/spiderheart.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MRNxK8L/raya.jpg" group-title="Premium Movie",Raya And The Last Dragon (2021)
+https://www.dropbox.com/s/m84e9ccwr8ggsiz/Raya-And-The-Last-Dragon-2021-1614993645-720p.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G2YFstX/tom-and-jerry.jpg" group-title="Premium Movie",Tom And Jerry (2021)
+https://www.dropbox.com/s/9to19xl4idjrtvh/Tom-And-Jerry-2021-1614389078-720p.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9hBptzp/outside-the-wire.jpg" group-title="Premium Movie",Outside The Wire (2021)
+https://www.dropbox.com/s/knxz9c1sn7l748g/D21.FUN-Outside-The-Wire-2021-1610703451.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5k4gmnp/nezha.jpghttps://i.ibb.co/TtT5SvD/stand-by-me-2.jpghttps://i.ibb.co/TcbM7Xx/The-White-Tiger-3.jpghttps://i.ibb.co/8KdCpT0/joji.jpg" group-title="Premium Movie",Nezha Reborn (2021)Doraemon Stand By Me 2 (2021)The White Tiger (2021)Joji (2021)
+https://www.dropbox.com/s/kxb8142xds59v6a/joji.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tpv8BHf/wrong-turn.jpg" group-title="Premium Movie",Wrong Turn (2021)
+https://www.dropbox.com/s/rx068ypydhksx57/driveid-118482-terbit21-com-wrong-turn-2021.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hBG7f7P/nobody-poster-scaled.jpg" group-title="Premium Movie",Nobody (2021)
+https://www.dropbox.com/s/l5t83q7vvzqwxz5/D21.FUN-Nobody-2021-1618485858.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PM6HMkx/wish-dragon.jpg" group-title="Premium Movie",Wish Dragon (2021)
+https://www.dropbox.com/s/az6up3tinjf1rsv/D21.FUN-Wish-Dragon-2021-1616986738.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RDW6xn/Secret-Magic-Control-Agency.jpg" group-title="Premium Movie",Secret Magic Control Agency (2021)
+https://www.dropbox.com/s/djgnsnhig8g69du/D21.FUN-Secret-Magic-Control-Agency-021-1616662061.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XjsNd2G/palmer.jpg" group-title="Premium Movie",Palmer (2021)
+https://www.dropbox.com/s/cio3d6sdrln9bwh/palmer.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sWMqwCp/belowzero.jpghttps://i.ibb.co/TRYYjyD/the-vault.jpghttps://i.ibb.co/N3Ps803/marksman.jpghttps://i.ibb.co/HdSwKJ9/withouth-remorse.jpghttps://i.ibb.co/CQnW74f/the-michells-vs-the-machines.jpghttps://i.ibb.co/y8fgNSC/writerodysey.jpghttps://i.ibb.co/W2Qck15/Those-Who-Wish-Me-Dead.pnghttps://i.ibb.co/M7n7hd0/mission.jpghttps://i.ibb.co/whRLvHB/recalled.jpg" group-title="Premium Movie",Below Zero (2021) // COMING SOONThe Vault (2021)The Marksman (2021)Withouth Remorse (2021)The Michells vs The Machines (2021)A Writers Odyssey (2021)Those Who Wish Me Dead (2021)Mission Possible (2021)Recalled (2021)
+https://www.dropbox.com/s/i5a04izemaub9rp/recalled.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7bBnhxh/sir.jpghttps://i.ibb.co/ZfC9pSn/wrath.jpghttps://i.ibb.co/CPSHnP1/unholy.jpghttps://i.ibb.co/CVcY9Lw/army.jpghttps://i.ibb.co/30nWLn5/cruella.jpg" group-title="Premium Movie",Sir Alex Ferguson:Never Give In (2021)Wrath Of Man (2021)The Unholy (2021)Army Of The Dead (2021)Cruella (2021)
+https://www.dropbox.com/s/jrftnfvaeuxkmdg/cruella.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n7N7ZHY/baby-boss-2.jpghttps://i.ibb.co/9ycf9VX/thesuicide2.jpghttps://i.ibb.co/qWZMgpM/petter-rabiint-2.jpghttps://i.ibb.co/hMQDZn4/freeguy.jpghttps://i.ibb.co/2dbxDL1/sinkhole.jpg" group-title="Premium Movie",Babby Boss 2 (2021)The Suicide Squad (2021)Jungle Cruise(2021)Petter Rabbit 2 (2021)Free Guy (2021)Sinkhole (2021)
+https://www.dropbox.com/s/4h4l38uqldqot2h/sinkhole.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7Cn18Lb/dontbreathe2.jpghttps://i.ibb.co/dDwKmTL/adams2.jpg" group-title="Premium Movie",Don't Breathe 2 (2021)The Addams Family 2 (2021)
+https://www.dropbox.com/s/isv6vb8z1fy25x5/theaddamsfamily2.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s6NVj2J/dune.jpg" group-title="Premium Movie",Dune (2021)
+https://www.dropbox.com/s/0hq5vopq6qook0m/dune.mp4?dl=1
 
 
 
