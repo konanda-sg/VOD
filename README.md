@@ -1603,6 +1603,695 @@ https://lh3.googleusercontent.com/zwsS5gwHpLhi-zdc1zC5LWGpZnWmf34X9r-kIAc2tqWAng
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", War of the Worlds: Goliath (2012)
 https://lh3.googleusercontent.com/KqeaYVXh5fwJQ8__qnETIDtFd4CRO70sxLUtGGgpfwAA7K27QApbCDGPqfjoN5SjqoTmdh-aRJsmip-8vg=m22
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Sumpahan Malam Raya" tvg-logo="https://i.ibb.co/qNz2qnp/first.png" group-title="FIRST",Astro First- Sumpahan Malam Raya
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1202
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Merewang Keluarga Pak Awang" tvg-logo="https://i.ibb.co/qNz2qnp/first.png" group-title="FIRST",Astro First- Merewang Keluarga Pak Awang
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1101
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Escape" tvg-logo="https://i.ibb.co/qNz2qnp/first.png" group-title="FIRST",Astro First- Escape
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1091
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Pulau (2023)" tvg-logo="https://i.ibb.co/qNz2qnp/first.png" group-title="FIRST",Astro First- Pulau (2023)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1085
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Siku 12: Langkah Derhaka " tvg-logo="https://i.ibb.co/qNz2qnp/first.png" group-title="FIRST",Astro First- Siku 12: Langkah Derhaka 
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1076
+#EXTINF:-1 tvg-id="" tvg-name="Astro First - Bas Terakhir Malam Raya" tvg-logo="https://i.ibb.co/qNz2qnp/first.png" group-title="FIRST",Astro First - Bas Terakhir Malam Raya
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1066
+#EXTINF:-1 tvg-id="" tvg-name="Astro First -Remp-it 2" tvg-logo="https://i.ibb.co/qNz2qnp/first.png" group-title="FIRST",Astro First -Remp-it 2
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1071
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Duan Nago Bogho" tvg-logo="https://i.ibb.co/qNz2qnp/first.png" group-title="FIRST",Astro First- Duan Nago Bogho
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1058
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Daddyku Gangster" tvg-logo="https://i.ibb.co/qNz2qnp/first.png" group-title="FIRST",Astro First- Daddyku Gangster
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1041
+#EXTINF:-1 tvg-id="" tvg-name="Astro First - Talbis Iblis" tvg-logo="https://i.ibb.co/qNz2qnp/first.png" group-title="FIRST",Astro First - Talbis Iblis
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1023
+#EXTINF:-1 tvg-id="" tvg-name="Astro First - Pengabdi Setan 2" tvg-logo="https://i.ibb.co/qNz2qnp/first.png" group-title="FIRST",Astro First - Pengabdi Setan 2
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1022
+#EXTINF:-1 tvg-id="" tvg-name="Astro First - Air Force The Movie" tvg-logo="https://i.ibb.co/qNz2qnp/first.png" group-title="FIRST",Astro First - Air Force The Movie
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1018
+#EXTINF:-1 tvg-id="" tvg-name="Astro First - Abang Long Fadil 3" tvg-logo="https://i.ibb.co/qNz2qnp/first.png" group-title="FIRST",Astro First - Abang Long Fadil 3
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1017
+
+#EXTINF:-1 tvg-id="" tvg-name="Jawan (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jFt1gS4BGHlK8xt76Y81Alp4dbt.jpg" group-title="MIX",Jawan (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1549.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blind Waters (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/asG1vxzBWed6vOwrHq1USW7HETT.jpg" group-title="MIX",Blind Waters (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1546.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Butcher's Crossing (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kh7DY2ecv9aSFIKwxtpX0awRtYZ.jpg" group-title="MIX",Butcher's Crossing (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1548.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PAW Patrol: The Mighty Movie (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aTvePCU7exLepwg5hWySjwxojQK.jpg" group-title="MIX",PAW Patrol: The Mighty Movie (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1543.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Locked In (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/blQaj6biyBMLo34cuFKKwbgjIBz.jpg" group-title="MIX",Locked In (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1544.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Birthright: Outlaw (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cY3TJxjBhFcvKLA6QnDUi0zSbqc.jpg" group-title="MIX",Birthright: Outlaw (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1545.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Oracle (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/laOpPREcTlDukttovlUGJ3Wmtb6.jpg" group-title="MIX",Oracle (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1547.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Into the Abyss (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJW8YMfXUjOqKXwDM4LQfwr8s15.jpg" group-title="MIX",Into the Abyss (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1540.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Five Nights at Freddy's (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A4j8S6moJS2zNtRR8oWF08gRnL5.jpg" group-title="MIX",Five Nights at Freddy's (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1541.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sister Death (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zfVdFJGGgHDM3RFZdTPhZqy1WEi.jpg" group-title="MIX",Sister Death (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1538.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Night of the Hunted (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tfNFmBGBVF1biwOTBgFONAeCaDZ.jpg" group-title="MIX",Night of the Hunted (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1539.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crypto Boy (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ejL0MUET2LJRdEgL6JO0erxmDcZ.jpg" group-title="MIX",Crypto Boy (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1535.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saw X (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b16RAVwj2QN6RAs752UJNzQ9Of0.jpg" group-title="MIX",Saw X (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1536.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Burial (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ssNSfNKpzZwhbFsnW3wa82m2sG.jpg" group-title="MIX",The Burial (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1534.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Penanggal Mak Kiah (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qlqv0hLOL9uC5yrhwDggA0e6hN1.jpg" group-title="MALAY",Penanggal Mak Kiah (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1532.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mat Tudung Begins (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eyVRYJXNKBGzZl6nFujLPG2D92x.jpg" group-title="MALAY",Mat Tudung Begins (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1531.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Awareness (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nXj3iwqUTnVWR95KCkjGT6hle0J.jpg" group-title="MIX",Awareness (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1530.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Expend4bles (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbrqj9q8WubD3QkYm7n3GhjN7kE.jpg" group-title="MIX",Expend4bles (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1529.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Muzzle (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXChf7MFL36BgoLkiB3BzXiwW82.jpg" group-title="MIX",Muzzle (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1526.mp4
+#EXTINF:-1 tvg-id="" tvg-name="57 Seconds (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dfS5qHWFuXyZQnwYREwb7N4qU5p.jpg" group-title="MIX",57 Seconds (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1527.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haunted Mansion (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Im6DknDVxRiGXc5t8rVOJyzuNx.jpg" group-title="MIX",Haunted Mansion (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1524.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sound of Freedom (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qA5kPYZA7FkVvqcEfJRoOy4kpHg.jpg" group-title="MIX",Sound of Freedom (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1525.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nowhere (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rpzFxv78UvYG5yQba2soO5mMl4T.jpg" group-title="MIX",Nowhere (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1520.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OMG 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kApiO3oL6t100aCtkcwEhk2kqgK.jpg" group-title="MIX",OMG 2 (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1518.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Nun II (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5gzzkR7y3hnY8AD1wXjCnVlHba5.jpg" group-title="MIX",The Nun II (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1519.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Equalizer 3 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0Ej6fnXAP8fK75hlyi2jKqdhHz.jpg" group-title="MIX",The Equalizer 3 (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1516.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Do Not Disturb (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AdcXd3zgbtoo2EDn3ymp35gdZoH.jpg" group-title="MIX",Do Not Disturb (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1514.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deliver Us (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uoKUTwvHvSVHWjSM4RhCh6rKL0U.jpg" group-title="MIX",Deliver Us (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1515.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Spy Kids: Armageddon (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vd8YdaH7dzeIMGTNwQinlSiA1gV.jpg" group-title="MIX",Spy Kids: Armageddon (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1510.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gran Turismo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51tqzRtKMMZEYUpSYkrUE7v9ehm.jpg" group-title="MIX",Gran Turismo (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1511.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blue Beetle (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mXLOHHc1Zeuwsl4xYKjKh2280oL.jpg" group-title="MIX",Blue Beetle (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1500.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bone Cold (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yi8TQ9txgb7wDtGkghQmkkZLL9r.jpg" group-title="MIX",Bone Cold (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1501.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ransomed (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rXGVc5a3sIFpER8oIZU3Bccv9HL.jpg" group-title="MIX",Ransomed (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1492.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ramabanam (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gYpJc2TdwJugZF3cG7o7HWwixQy.jpg" group-title="MIX",Ramabanam (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1493.mp4
+#EXTINF:-1 tvg-id="" tvg-name="White Paradise (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bD3TKQzXbSEzCzDEw5bonMyjTyc.jpg" group-title="MIX",White Paradise (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1494.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trust Nobody 2: Still No Trust (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/idzEm8ogXrhWzrix9K6gK7jW6xe.jpg" group-title="MIX",Trust Nobody 2: Still No Trust (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1495.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maayon (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bdfmTnEyGDN46o6q1gUxuNdoQv8.jpg" group-title="MIX",Maayon (2022)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1496.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Spy (2023)" tvg-logo="https://i.ibb.co/ngf67Jm/1695351461294.png" group-title="MIX",Spy (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1497.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pizza 3: The Mummy (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AozhsNFfa5Qn2ETztnhpALmlWIy.jpg" group-title="MIX",Pizza 3: The Mummy (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1498.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lop Nor Tomb (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dzzB67NRFDFNRayJ9UOX6rSNRSV.jpg" group-title="MIX",Lop Nor Tomb (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1499.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rab Ne Bana Di Jodi (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8x6I2qf3R98HtF4DmJXcdxCU64.jpg" group-title="Request Movie",Rab Ne Bana Di Jodi (2008)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1491.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Assistant (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Izlmpvas5bmeHj291V1lygl4Le.jpg" group-title="MALAY",The Assistant (2022)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1280.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Retribution (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oUmmY7QWWn7OhKlcPOnirHJpP1F.jpg" group-title="MIX",Retribution (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1277.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr Yin-Yang (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3pQnfE2qhTMsNxaJpi1WUegj7g6.jpg" group-title="MIX",Mr Yin-Yang (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1275.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Huang Miao Village's Tales of Mystery (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lmoutPdc0oFYgaG6clbdDzIF1lF.jpg" group-title="MIX",Huang Miao Village's Tales of Mystery (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1276.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Birth/Rebirth (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zlEhsNfOKhbnfs5NTJ6zOZtoLBb.jpg" group-title="MIX",Birth/Rebirth (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1271.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jailer (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTmMxAHqX4vsIDE6HPPxOR0Q6TN.jpg" group-title="MIX",Jailer (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1272.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sympathy for the Devil (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/afGdVMa80LMs6ibLP22CwM5uI4e.jpg" group-title="MIX",Sympathy for the Devil (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1273.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hitmen (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cdbNHV7Rjy72WgZyIuh3QwxgVS2.jpg" group-title="MIX",Hitmen (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1274.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Knock at the Cabin (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dm06L9pxDOL9jNSK4Cb6y139rrG.jpg" group-title="MIX",Knock at the Cabin (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1239.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Imam (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbcK6ukeBPZzuzHEQ5DTdXAiCiN.jpg" group-title="MALAY",Imam (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1269.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VII XII (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5VdFEbWz15noOFTOBzpXLPJ0y9k.jpg" group-title="MALAY",VII XII (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1268.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Strange Case of a Claustrophobic Ghost (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/17GmWeqNxCxr2tCWewBWb6Xx3me.jpg" group-title="MIX",The Strange Case of a Claustrophobic Ghost (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1267.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Teenage Mutant Ninja Turtles: Mutant Mayhem (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ueO9MYIOHO7M1PiMUeX74uf8fB9.jpg" group-title="MIX",Teenage Mutant Ninja Turtles: Mutant Mayhem (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1265.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doraemon: Nobita's Sky Utopia (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g9ksiIwYUUTWMR1PH22p8YAfUR1.jpg" group-title="MIX",Doraemon: Nobita's Sky Utopia (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1266.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dendam Hantu Latah (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n9fZWeRKEIXSUhUAiZDu15p0wb7.jpg" group-title="MALAY",Dendam Hantu Latah (2022)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1262.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dendam Hantu Latah 2 (2023)" tvg-logo="https://i.ibb.co/pJnv8Mb/1693844385841.png" group-title="MALAY",Dendam Hantu Latah 2 (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1263.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deep Blue Sea 3 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bKthjUmxjHjvJK8FktFfQdmwP12.jpg" group-title="MIX",Deep Blue Sea 3 (2020)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1261.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Last Voyage of the Demeter (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrtbv6Cew7qC7k9GsYSf5uSmuKh.jpg" group-title="MIX",The Last Voyage of the Demeter (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1258.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Darkland: The Return (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A8EPXv3SV9qiNCIttIM4ezJRmhW.jpg" group-title="MIX",Darkland: The Return (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1259.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shrapnel (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYOhBEgqmCYjUWiFHilzLoSdrrX.jpg" group-title="MIX",Shrapnel (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1260.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ant-Man and the Wasp: Quantumania (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnqGbB22YJ7dSs4o6M7exTpNxPz.jpg" group-title="MIX",Ant-Man and the Wasp: Quantumania (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1256.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Oppenheimer (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg" group-title="MIX",Oppenheimer (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1254.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Operation Fortune: Ruse de Guerre (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uo7vWfQUlVwueYTDRicXOJa8Oow.jpg" group-title="MIX",Operation Fortune: Ruse de Guerre (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1252.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dungeons & Dragons: Honor Among Thieves (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7AoNT06aRAc4SV89Dwxj3EYAgC.jpg" group-title="MIX",Dungeons & Dragons: Honor Among Thieves (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1253.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haunting of the Queen Mary (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1uNMAlNanIQohAofjyyad2WVCdk.jpg" group-title="MIX",Haunting of the Queen Mary (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1240.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LEGO Disney Princess: The Castle Quest (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q17tXNROOslj7uCGicKNlIf9Rx6.jpg" group-title="MIX",LEGO Disney Princess: The Castle Quest (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1241.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nyang (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8nc377PKN6bXevXLdX9M2L2xCwd.jpg" group-title="MALAY",Nyang (2022)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1251.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mob Land (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mcz8oi9oCgq1wkA3Wz2kluE94pE.jpg" group-title="MIX",Mob Land (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1249.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Operation Napoleon (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2Or0w69bpPXrmkE0hpTzw6hzsr.jpg" group-title="MIX",Operation Napoleon (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1250.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Imaginur (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8GDAe9i6HiFtRB1O5nCbUcGH4j0.jpg" group-title="MALAY",Imaginur (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1248.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Indiana Jones and the Dial of Destiny (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg" group-title="MIX",Indiana Jones and the Dial of Destiny (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1247.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super: Super Hero (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pi0iZOEHeA3ih4p1IwAG4x2DZNH.jpg" group-title="MIX",Dragon Ball Super: Super Hero (2022)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1245.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The SpongeBob Movie: Sponge on the Run (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlJ8nDhMhCYJuzOw3f52CP1W8MW.jpg" group-title="MIX",The SpongeBob Movie: Sponge on the Run (2020)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1246.mp4
+#EXTINF:-1 tvg-id="" tvg-name="GUI(2023)" tvg-logo="https://i.ibb.co/31bfQdR/1693226926752.png" group-title="MALAY",GUI(2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1242.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pontianak 100kg (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k5SoO75feHyoRR7C9b33o26wYF7.jpg" group-title="MALAY",Pontianak 100kg (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1243.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Monkey King (2023)" tvg-logo="https://i.ibb.co/JpkkkkL/1693008203135.png" group-title="NETFLIX",The Monkey King (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1234.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Didi & Friends The Movie (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cicXScHuMNZlonpQ1tPuJ2tnfsp.jpg" group-title="MALAY",Didi & Friends The Movie (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1238.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Dive (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o43eMkNkWBBsyxEyyUeQwl4AOe.jpg" group-title="MIX",The Dive (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1237.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jemputan Ke Neraka (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Wwq3gegxa6GMCnpQNl39Cqf6sh.jpg" group-title="MALAY",Jemputan Ke Neraka (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1235.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meg 2: The Trench (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/FQHtuf2zc8suMFE28RyvFt3FJN.jpg" group-title="MIX",Meg 2: The Trench (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1233.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Baby Jarum (2023)" tvg-logo="https://i.ibb.co/f4RC3PN/1692938785555.png" group-title="MALAY",Baby Jarum (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1231.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Khanzab (2023)" tvg-logo="https://i.ibb.co/WPRj3cN/1692939436348.png" group-title="NETFLIX",Khanzab (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1232.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg" group-title="MIX",The Flash (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1230.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elemental (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6oH378KUfCEitzJkm07r97L0RsZ.jpg" group-title="MIX",Elemental (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1228.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Collective (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ah9H6Sj434nJiZpTPQrovHaEePV.jpg" group-title="MIX",The Collective (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1227.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Tomorrow Job (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ah3pJ3iuX28PKHjGLyIrEsFVq5q.jpg" group-title="MIX",The Tomorrow Job (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1225.mp4
+#EXTINF:-1 tvg-id="" tvg-name="D.C. Down (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRmG1YO1GFRDX7UwtcaIP5OhMpH.jpg" group-title="MIX",D.C. Down (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1226.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[CAM] Mission: Impossible - Dead Reckoning Part One (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/NNxYkU70HPurnNCSiCjYAmacwm.jpg" group-title="MIX",[CAM] Mission: Impossible - Dead Reckoning Part One (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1224.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Insidious: The Red Door (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d07phJqCx6z5wILDYqkyraorDPi.jpg" group-title="MIX",Insidious: The Red Door (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1223.mp4
+#EXTINF:-1 tvg-id="" tvg-name="I Am Rage (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iclmQs4O5dy7EAkbykI1qkowfK2.jpg" group-title="MIX",I Am Rage (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1221.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assault on Hill 400 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r2lVJcW7AExP0O9hcVKc4wxvLXx.jpg" group-title="MIX",Assault on Hill 400 (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1220.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rudrangi (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mqls4AP0wQ5x3OjzCfRDUrHVWbd.jpg" group-title="MIX",Rudrangi (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1219.mp4
+#EXTINF:-1 tvg-id="" tvg-name="River Wild (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fffPeOw5Ld8CrI8X9X36wMSzXuX.jpg" group-title="MIX",River Wild (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1222.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Engineer (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ozkZ8TeIRwzNH2zF5LFS39M3v5U.jpg" group-title="MIX",The Engineer (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1217.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobweb (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cGXFosYUHYjjdKrOmA0bbjvzhKz.jpg" group-title="MIX",Cobweb (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1216.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Island (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ajb1rMiorchfRemYHZCkbV9DBg6.jpg" group-title="MIX",The Island (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1215.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pinball: The Man Who Saved the Game (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjGphbx4ZDwAYYWImpY427KGw7B.jpg" group-title="MIX",Pinball: The Man Who Saved the Game (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1214.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Marry My Dead Body (2023)" tvg-logo="http://205.178.183.168:8080/Pic/MarryMyDeadBody.png" group-title="NETFLIX",Marry My Dead Body (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1210.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Heart of Stone (2023)" tvg-logo="http://205.178.183.168:8080/Pic/HeartStone.png" group-title="NETFLIX",Heart of Stone (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1211.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Polis Evo 3 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eHt8LAmNbuP7rhGWtGyFSLNEdla.jpg" group-title="MALAY",Polis Evo 3 (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1203.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Losmen Melati (2023)" tvg-logo="http://205.178.183.168:8080/Pic/LosmenMelati.png" group-title="NETFLIX",Losmen Melati (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1201.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dendam Penunggu (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rkeL429PGLNB9woHRe4s8Bc64KG.jpg" group-title="MALAY",Dendam Penunggu (2021)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1200.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zom 100: Bucket List of the Dead (2023)" tvg-logo="http://205.178.183.168:8080/Pic/100Buck.png" group-title="NETFLIX",Zom 100: Bucket List of the Dead (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1196.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Head to Head (2023)" tvg-logo="http://205.178.183.168:8080/Pic/HeadToHead.png" group-title="NETFLIX",Head to Head (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1197.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paskal (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oAI8whpvqWxxucVGJdDiGOfCjMB.jpg" group-title="MALAY",Paskal (2018)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1198.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Triple Frontier (2019)" tvg-logo="http://205.178.183.168:8080/Pic/TripleFrontie.png" group-title="NETFLIX",Triple Frontier (2019)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1199.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sumpahan Syaitan (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juVj6zLwyfzqWey24t61EQDt86w.jpg" group-title="MALAY",Sumpahan Syaitan (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1193.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Soulcatcher (2023)" tvg-logo="http://205.178.183.154:8080/pic/SoulCatcher.png" group-title="NETFLIX",Soulcatcher (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1192.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dream (2023)" tvg-logo="http://205.178.183.154:8080/pic/Dream.png" group-title="NETFLIX",Dream (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1188.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Happiness for Beginners (2023)" tvg-logo="http://205.178.183.154:8080/pic/HappinesForBeginners.png" group-title="NETFLIX",Happiness for Beginners (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1189.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Miraculous: Ladybug & Cat Noir, The Movie (2023)" tvg-logo="http://205.178.183.154:8080/pic/Miraculos.png" group-title="NETFLIX",Miraculous: Ladybug & Cat Noir, The Movie (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1190.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Big Nunu's Little Heist (2023)" tvg-logo="http://205.178.183.154:8080/pic/BigNunu.png" group-title="NETFLIX",Big Nunu's Little Heist (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1191.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hidden Strike (2023)" tvg-logo="http://stream1.foctv.xyz:8080/pic/HiddenStrike.png" group-title="NETFLIX",Hidden Strike (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1181.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Murderer (2023)" tvg-logo="http://stream1.foctv.xyz:8080/pic/TheMurderer.png" group-title="NETFLIX",The Murderer (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1180.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paradise (2023)" tvg-logo="http://stream1.foctv.xyz:8080/pic/Paradise.png" group-title="NETFLIX",Paradise (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1178.mp4
+#EXTINF:-1 tvg-id="" tvg-name="They Cloned Tyrone (2023)" tvg-logo="http://stream1.foctv.xyz:8080/pic/TheyClonedTyrone.png" group-title="NETFLIX",They Cloned Tyrone (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1179.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Car and the Knights Templar (2023)" tvg-logo="http://stream1.foctv.xyz:8080/pic/MrCarNightTemplar.png" group-title="NETFLIX",Mr. Car and the Knights Templar (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1133.mp4
+#EXTINF:-1 tvg-id="" tvg-name="We Have a Ghost (2023)" tvg-logo="http://stream1.foctv.xyz:8080/pic/WeHaveAGhost.png" group-title="NETFLIX",We Have a Ghost (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1129.mp4
+#EXTINF:-1 tvg-id="" tvg-name="True Spirit (2023)" tvg-logo="http://stream1.foctv.xyz:8080/pic/TrueSpirit.png" group-title="NETFLIX",True Spirit (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1130.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Out-Laws (2023)" tvg-logo="http://stream1.foctv.xyz:8080/pic/TheOutLaws.png" group-title="NETFLIX",The Out-Laws (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1131.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mission Majnu (2023)" tvg-logo="http://stream1.foctv.xyz:8080/pic/MissonMajnu.png" group-title="NETFLIX",Mission Majnu (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1134.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Mother (2023)" tvg-logo="http://stream1.foctv.xyz:8080/pic/TheMother.png" group-title="NETFLIX",The Mother (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1132.mp4
+#EXTINF:-1 tvg-id="" tvg-name="JUNG_E (2023)" tvg-logo="http://stream1.foctv.xyz:8080/pic/JungE.png" group-title="NETFLIX",JUNG_E (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1149.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chupa (2023)" tvg-logo="http://stream1.foctv.xyz:8080/pic/Chupa.png" group-title="NETFLIX",Chupa (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1150.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chor Nikal Ke Bhaga (2023)" tvg-logo="http://stream1.foctv.xyz:8080/pic/ChorNikal.png" group-title="NETFLIX",Chor Nikal Ke Bhaga (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1151.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blood & Gold (2023)" tvg-logo="http://stream1.foctv.xyz:8080/pic/BloodGold.png" group-title="NETFLIX",Blood & Gold (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1152.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AKA (2023)" tvg-logo="http://stream1.foctv.xyz:8080/pic/AKA.png" group-title="NETFLIX",AKA (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1153.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Unlocked (2023)" tvg-logo="http://stream1.foctv.xyz:8080/pic/Unlocked.png" group-title="NETFLIX",Unlocked (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1154.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hunger (2023)" tvg-logo="http://stream1.foctv.xyz:8080/pic/Hunger.png" group-title="NETFLIX",Hunger (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1155.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luther: The Fallen Sun (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tvX2JltXjmpHLQ7BBijyVc9STv4.jpg" group-title="MIX",Luther: The Fallen Sun (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1102.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The King (2019)" tvg-logo="http://stream1.foctv.xyz:8080/pic/TheKing.png" group-title="NETFLIX",The King (2019)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1103.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Red Notice (2021)" tvg-logo="http://stream1.foctv.xyz:8080/pic/RedNotice.png" group-title="NETFLIX",Red Notice (2021)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1104.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kingdom: Ashin of the North (2021)" tvg-logo="http://stream1.foctv.xyz:8080/pic/Kingdom.png" group-title="NETFLIX",Kingdom: Ashin of the North (2021)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1105.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Miss & Mrs. Cops (2019)" tvg-logo="http://stream1.foctv.xyz:8080/pic/MissAndMrsCops.png" group-title="NETFLIX",Miss & Mrs. Cops (2019)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1106.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pokémon the Movie: Mewtwo Strikes Back - Evolution (2019)" tvg-logo="http://stream1.foctv.xyz:8080/pic/Pokemon.png" group-title="NETFLIX",Pokémon the Movie: Mewtwo Strikes Back - Evolution (2019)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1107.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Yaksha: Ruthless Operations (2022)" tvg-logo="http://stream1.foctv.xyz:8080/pic/Yaksha.png" group-title="NETFLIX",Yaksha: Ruthless Operations (2022)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1108.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jungle Beat: The Movie (2020)" tvg-logo="http://stream1.foctv.xyz:8080/pic/JungleBeat.png" group-title="NETFLIX",Jungle Beat: The Movie (2020)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1109.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Finding ʻOhana (2021)" tvg-logo="http://stream1.foctv.xyz:8080/pic/FindingOhana.png" group-title="NETFLIX",Finding ʻOhana (2021)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1110.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Bombardment(2021)" tvg-logo="http://stream1.foctv.xyz:8080/pic/TheBombardement.png" group-title="NETFLIX",The Bombardment(2021)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1111.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Call (2020)" tvg-logo="http://stream1.foctv.xyz:8080/pic/TheCall.png" group-title="NETFLIX",The Call (2020)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1112.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Silence (2019)" tvg-logo="http://stream1.foctv.xyz:8080/pic/TheSilence.png" group-title="NETFLIX",The Silence (2019)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1113.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Pirates: The Last Royal Treasure (2022)" tvg-logo="http://stream1.foctv.xyz:8080/pic/ThePirates.png" group-title="NETFLIX",The Pirates: The Last Royal Treasure (2022)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1114.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Project Power (2020)" tvg-logo="http://stream1.foctv.xyz:8080/pic/ProjectPower.png" group-title="NETFLIX",Project Power (2020)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1115.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mortal Engines (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLhYg9NIvIPKVRTtvzCWnp1qJWG.jpg" group-title="NETFLIX",Mortal Engines (2018)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1116.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mosul (2019)" tvg-logo="http://stream1.foctv.xyz:8080/pic/Mosul.png" group-title="NETFLIX",Mosul (2019)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1117.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Old Guard (2020)" tvg-logo="http://stream1.foctv.xyz:8080/pic/OldGuard.png" group-title="NETFLIX",The Old Guard (2020)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1118.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Spenser Confidential (2020)" tvg-logo="http://stream1.foctv.xyz:8080/pic/SpenserConfidential.png" group-title="NETFLIX",Spenser Confidential (2020)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1119.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The School for Good and Evil (2022)" tvg-logo="http://stream1.foctv.xyz:8080/pic/TheSchoolForGoodAndEvil.png" group-title="NETFLIX",The School for Good and Evil (2022)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1120.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Enola Holmes (2020)" tvg-logo="http://stream1.foctv.xyz:8080/pic/EnolaHolmes.png" group-title="NETFLIX",Enola Holmes (2020)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1121.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Enola Holmes 2 (2022)" tvg-logo="http://stream1.foctv.xyz:8080/pic/EnolaHolmes2.png" group-title="NETFLIX",Enola Holmes 2 (2022)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1122.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love and Monsters (2021)" tvg-logo="http://stream1.foctv.xyz:8080/pic/LoveAndMonsters.png" group-title="NETFLIX",Love and Monsters (2021)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1123.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Big 4 (2022)" tvg-logo="http://stream1.foctv.xyz:8080/pic/TheBig4.png" group-title="NETFLIX",The Big 4 (2022)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1124.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lost Bullet 2 (2022)" tvg-logo="http://stream1.foctv.xyz:8080/pic/Lost2Bullet.png" group-title="NETFLIX",Lost Bullet 2 (2022)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1125.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carter (2022)" tvg-logo="http://stream1.foctv.xyz:8080/pic/Carter.png" group-title="NETFLIX",Carter (2022)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1126.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mat Kilau (2022)" tvg-logo="http://stream1.foctv.xyz:8080/pic/MatKilau.png" group-title="NETFLIX",Mat Kilau (2022)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1127.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Day Shift (2022)" tvg-logo="http://stream1.foctv.xyz:8080/pic/DayShif.png" group-title="NETFLIX",Day Shift (2022)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1128.mp4
+#EXTINF:-1 tvg-id="" tvg-name="22 July (2018)" tvg-logo="http://stream1.foctv.xyz:8080/pic/22July.png" group-title="NETFLIX",22 July (2018)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1140.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Extraction (2020)" tvg-logo="http://stream1.foctv.xyz:8080/pic/Extraction.png" group-title="NETFLIX",Extraction (2020)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1142.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Interceptor (2022)" tvg-logo="http://stream1.foctv.xyz:8080/pic/Interceptor.png" group-title="NETFLIX",Interceptor (2022)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1144.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Narvik (2022)" tvg-logo="http://stream1.foctv.xyz:8080/pic/Narvik.png" group-title="NETFLIX",Narvik (2022)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1145.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gunjan Saxena: The Kargil Girl (2020)" tvg-logo="http://stream1.foctv.xyz:8080/pic/GunjanSaxena.png" group-title="NETFLIX",Gunjan Saxena: The Kargil Girl (2020)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1146.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Forgotten Battle (2021)" tvg-logo="http://stream1.foctv.xyz:8080/pic/TheForgottenBattle.png" group-title="NETFLIX",The Forgotten Battle (2021)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1147.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Devotion (2022)" tvg-logo="http://stream1.foctv.xyz:8080/pic/Devotion.png" group-title="NETFLIX",Devotion (2022)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1148.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Transformers: Rise of the Beasts (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPbM0MK8CP8A174rmUwGsADNYKD.jpg" group-title="MIX",Transformers: Rise of the Beasts (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1100.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cabin Girl (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hca3PedvFt1I9wRaoIPehdZCkgo.jpg" group-title="MIX",Cabin Girl (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1099.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Place to Fight For (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/36wyM5ceCCIpu8lU88mxonYET71.jpg" group-title="MIX",A Place to Fight For (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1097.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Little Bone Lodge (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2BwerQH4tZvHU6zUlC77aDw7pLt.jpg" group-title="MIX",Little Bone Lodge (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1098.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Extraction 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gKI9hpEMcZUQpNgKrkDzJpbnNS.jpg" group-title="MIX",Extraction 2 (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1094.mp4
+#EXTINF:-1 tvg-id="" tvg-name="iNumber Number: Jozi Gold (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8OkmwdxCZOVxvZq9OyDrIIKEoDK.jpg" group-title="MIX",iNumber Number: Jozi Gold (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1092.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Secret Kingdom (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dteXMzVY53GBHUgrR7vigAartsP.jpg" group-title="MIX",The Secret Kingdom (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1093.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ride On (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukFo9pwVJ5mzTgmFCanYsYC4roF.jpg" group-title="MIX",Ride On (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1089.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fast X (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fiVW06jE7z9YnO4trhaMEdclSiC.jpg" group-title="MIX",Fast X (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1090.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hypnotic (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3IhGkkalwXguTlceGSl8XUJZOVI.jpg" group-title="MIX",Hypnotic (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1087.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Black Demon (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uiFcFIjig0YwyNmhoxkxtAAVIL2.jpg" group-title="MIX",The Black Demon (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1086.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Come Out Fighting (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sERwJxz0sqsbcUoTm66l9pI6HcH.jpg" group-title="MIX",Come Out Fighting (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1088.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Super Mario Bros. Movie (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg" group-title="MIX",The Super Mario Bros. Movie (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1084.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guardians of the Galaxy Vol. 3 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg" group-title="MIX",Guardians of the Galaxy Vol. 3 (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1082.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Evil Dead Rise (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ik4ATKmNtmJU6AYD0bLm56BCVM.jpg" group-title="MIX",Evil Dead Rise (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1074.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guy Ritchie's The Covenant (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aX0H63vho7rZ9Rm3I567Zf00Z1t.jpg" group-title="MIX",Guy Ritchie's The Covenant (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1072.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Ranger (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/puffdkze3GZmQHu2Hy8t1XdOYtM.jpg" group-title="MIX",One Ranger (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1073.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Simulant (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3M1bVxEbIe3BVkFJWwMi8DIea1.jpg" group-title="MIX",Simulant (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1075.mp4
+#EXTINF:-1 tvg-id="" tvg-name="John Wick: Chapter 4 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg" group-title="MIX",John Wick: Chapter 4 (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1070.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peter Pan & Wendy (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9NXAlFEE7WDssbXSMgdacsUD58Y.jpg" group-title="MIX",Peter Pan & Wendy (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1069.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mighty Morphin Power Rangers: Once & Always (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vc87upO8vcAGj9OmgH3AIz6ikKB.jpg" group-title="MIX",Mighty Morphin Power Rangers: Once & Always (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1067.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Scream VI (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDWwtvkRRlgTiUr6TyLSMX8FCuZ.jpg" group-title="MIX",Scream VI (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1068.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coast Guard Malaysia: Ops Helang (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3KJkSsMOLrqy8bDbYb0BLtM0SX.jpg" group-title="MALAY",Coast Guard Malaysia: Ops Helang (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1065.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Satu Hari Sebelum Raya (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4V23FNRDjMZ0PwQJWjeHCbTtEro.jpg" group-title="MALAY",Satu Hari Sebelum Raya (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1064.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shazam! Fury of the Gods (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A3ZbZsmsvNGdprRi2lKgGEeVLEH.jpg" group-title="MIX",Shazam! Fury of the Gods (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1061.mp4
+#EXTINF:-1 tvg-id="" tvg-name="65 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uMMIeMVk1TCG3CZilpxbzFh0JKT.jpg" group-title="MIX",65 (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1063.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Creed III (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cvsXj3I9Q2iyyIo95AecSd1tad7.jpg" group-title="MIX",Creed III (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1059.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Murder Mystery 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5wpVy0KUWzDKDKgrayM0Q8lXOiK.jpg" group-title="MIX",Murder Mystery 2 (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1060.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mechamato Movie (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eUDTunmBCLlsGqDxVj7teijIN2w.jpg" group-title="MALAY",Mechamato Movie (2022)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1057.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Plane (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eUDTunmBCLlsGqDxVj7teijIN2w.jpg" group-title="MIX",Plane (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1054.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Little Dixie (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmWTZj9zzT9KFt3XyL0gssL7Ig8.jpg" group-title="MIX",Little Dixie (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1053.mp4
+#EXTINF:-1 tvg-id="" tvg-name="#Float (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xNyqgBBkbII8qBejh5czNqrT70p.jpg" group-title="MIX",#Float (2022)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1046.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All the Places (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1mdYZDqYcRjD4yF8MCh8OPtXApI.jpg" group-title="MIX",All the Places (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1047.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Infinity Pool (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yaWdCgTNnEaVrR32C3hS3MBCV3C.jpg" group-title="MIX",Infinity Pool (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1048.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: The Way of Water (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg" group-title="MIX",Avatar: The Way of Water (2022)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1038.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Panther: Wakanda Forever (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sv1xJUazXeYqALzczSZ3O6nkH75.jpg" group-title="MIX",Black Panther: Wakanda Forever (2022)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1039.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Prey for the Devil (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iCvgemXf2Kpr2LvpDmt5J9NhjKM.jpg" group-title="MIX",Prey for the Devil (2022)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1034.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Puss in Boots: The Last Wish (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iCvgemXf2Kpr2LvpDmt5J9NhjKM.jpg" group-title="MIX",Puss in Boots: The Last Wish (2022)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1033.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shotgun Wedding (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t79ozwWnwekO0ADIzsFP1E5SkvR.jpg" group-title="MIX",Shotgun Wedding (2022)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1035.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Old Way (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8HCCYAIocXxMKn7J9yQfDX1vBM5.jpg" group-title="MIX",The Old Way (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1036.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Warrant (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8HCCYAIocXxMKn7J9yQfDX1vBM5.jpg" group-title="MIX",Black Warrant (2023)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1037.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Remp-It 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g1A1dtk1iLksWfsPT2F5MnkyicK.jpg" group-title="MALAY",Remp-It 2 (2022)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1032.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Glass Onion: A Knives Out Mystery (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g1A1dtk1iLksWfsPT2F5MnkyicK.jpg" group-title="MIX",Glass Onion: A Knives Out Mystery (2022)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1029.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deleted (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vPi3p9OoAzxjhOTgz3HLgODDRb0.jpg" group-title="MIX",Deleted (2022)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1030.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Spirited (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h3zAzTMs5EP3cKusOxFNGSFE1WI.jpg" group-title="MIX",Spirited (2022)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1026.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Amazing Maurice (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ydhZeUjbzVEFclUpMhLfDZSavUY.jpg" group-title="MIX",The Amazing Maurice (2022)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1024.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Strange World (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fHMqfsYyl3lskPK2RiFRwhzwuep.jpg" group-title="MIX",Strange World (2022)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1025.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Troll (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9z4jRr43JdtU66P0iy8h18OyLql.jpg" group-title="MIX",Troll (2022)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Adam (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pFlaoHTZeyNkG83vxsAJiGzfSsa.jpg" group-title="MIX",Black Adam (2022)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1021.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perfect Strangers (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1GNvcCbJA0eTvG1bXt5fRkORcZs.jpg" group-title="MALAY",Perfect Strangers (2022)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1012.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Accident Man: Hitman's Holiday (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zC5SJ18v9AhiHoFOIzZASqSxsPh.jpg" group-title="MIX",Accident Man: Hitman's Holiday (2022)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1010.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guardians of Time (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSPQp3zclmSViWzrfIucCE0xOOk.jpg" group-title="MIX",Guardians of Time (2022)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1011.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fall (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v28T5F1IygM8vXWZIycfNEm3xcL.jpg" group-title="MIX",Fall (2022)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/996.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Minions: The Rise of Gru (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg" group-title="MIX",Minions: The Rise of Gru (2022)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Top Gun: Maverick (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/62HCnUTziyWcpDaBO2i1DX17ljH.jpg" group-title="MIX",Top Gun: Maverick (2022)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/992.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bank Robbers: The Last Great Heist (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1qkIyRyXsrXaear1OdJd0QWaAkC.jpg" group-title="MIX",Bank Robbers: The Last Great Heist (2022)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/987.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sniper: Rogue Mission (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jSL5TqroJsDAIgBdELBwby1uhf1.jpg" group-title="MIX",Sniper: Rogue Mission (2022)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/988.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Secret Headquarters (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8PsHogUfvjWPGdWAI5uslDhHDx7.jpg" group-title="MIX",Secret Headquarters (2022)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/989.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Killer (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/96vh2gsbycB5vWmvWOjy4bwOvgv.jpg" group-title="MIX",The Killer (2022)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/990.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rogue Agent (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tOaGR6mzUAEQzIgWCeVoneRIkp.jpg" group-title="MIX",Rogue Agent (2022)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/991.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Prey (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ujr5pztc1oitbe7ViMUOilFaJ7s.jpg" group-title="MIX",Prey (2022)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/985.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Billu (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmWKskigmvBow3uOP4RPQOIaUux.jpg" group-title="Request Movie",Billu (2009)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1096.mp4
+#EXTINF:-1 tvg-id="" tvg-name="6 Langkah Menghancurkan Ex-Boyfriend" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JSCPR_p_IVP_PORT_390x585_20221027_21162.jpg" group-title="CITRA Exclusive",6 Langkah Menghancurkan Ex-Boyfriend
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1386.mp4
+#EXTINF:-1 tvg-id="" tvg-name="7 Hari Kisah Cinta Langkawi" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JAFAA_p_IVP_PORT_390x585_20221027_215154.jpg" group-title="CITRA Exclusive",7 Hari Kisah Cinta Langkawi
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1387.mp4
+#EXTINF:-1 tvg-id="" tvg-name="16 Puasa" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IDMVZ_p_IVP_PORT_390x585_2023724_144550.jpg" group-title="CITRA Exclusive",16 Puasa
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1388.mp4
+#EXTINF:-1 tvg-id="" tvg-name="17 Puasa" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IVIHW_p_IVP_PORT_390x585_20221027_224644.jpg" group-title="CITRA Exclusive",17 Puasa
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1389.mp4
+#EXTINF:-1 tvg-id="" tvg-name="18 Puasa Di Kampong Pisang" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JRXOD_p_IVP_PORT_390x585_20221116_203944.jpg" group-title="CITRA Exclusive",18 Puasa Di Kampong Pisang
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1390.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Abang Long Fadil 2" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IEYPM_p_IVP_PORT_390x585_2023721_91424.jpg" group-title="CITRA Exclusive",Abang Long Fadil 2
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1391.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Abang Long Fadil" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_HCQSB_p_IVP_PORT_390x585_202381_171637.jpg" group-title="CITRA Exclusive",Abang Long Fadil
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1392.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ada Mata Memerhati" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT)_IZWAM_p_IVP_PORT_390x585_20221028_1958.jpg" group-title="CITRA Exclusive",Ada Mata Memerhati
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1393.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ada Yang Ngikut" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JNTYQ_P_IVP_PORT_390x585_20221028_55038.jpg" group-title="CITRA Exclusive",Ada Yang Ngikut
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1394.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aku Posmen" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IOXJG_p_IVP_PORT_390x585_20221028_153811.jpg" group-title="CITRA Exclusive",Aku Posmen
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1395.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anak Perjanjian Syaitan" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IYVXM_p_IVP_PORT_390x585_20221030_12717.jpg" group-title="CITRA Exclusive",Anak Perjanjian Syaitan
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1396.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ancak" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXMGN_p_IVP_PORT_390x585_20221028_14522.jpg" group-title="CITRA Exclusive",Ancak
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1397.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Angan Angan Mat Jiman" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JYDSX_p_IVP_PORT_390x585_20221029_2136.jpg" group-title="CITRA Exclusive",Angan Angan Mat Jiman
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1398.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aruna & Lidahnya" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JBDRB_p_IVP_PORT_390x585_20221030_19647.jpg" group-title="CITRA Exclusive",Aruna & Lidahnya
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1399.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ayat Dari Langit" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JSPUV_p_IVP_PORT_390x585_20221028_15010.jpg" group-title="CITRA Exclusive",Ayat Dari Langit
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1400.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bayang" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JYDSS_p_IVP_PORT_390x585_20221029_12918.jpg" group-title="CITRA Exclusive",Bayang
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1401.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bikers Kental 2 (2019)" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IUVOS_P_IVP_PORT_390x585_20221030_185326.jpg" group-title="CITRA Exclusive",Bikers Kental 2 (2019)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1402.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bikers Kental" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_GNSHQ_P_IVP_PORT_390x585_20221027_201052.jpg" group-title="CITRA Exclusive",Bikers Kental
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1403.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bisik Pada Allah" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT)_IDUGL_p_IVP_PORT_390x585_20221028_35651.jpg" group-title="CITRA Exclusive",Bisik Pada Allah
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1404.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bisik Pada Langit" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IHDQZ_p_IVP_PORT_390x585_20221028_64945.jpg" group-title="CITRA Exclusive",Bisik Pada Langit
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1405.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Budok Kuba" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT)_IVEDI_p_IVP_PORT_390x585_20221028_184313.jpg" group-title="CITRA Exclusive",Budok Kuba
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1406.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bukit Kepong" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IVP_HOVEQ_p_IVP_PORT_390x585_20221027_231316.jpg" group-title="CITRA Exclusive",Bukit Kepong
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1407.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Busung Katak" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KDSCM_p_IVP_PORT_390x585_20221115_222259.jpg" group-title="CITRA Exclusive",Busung Katak
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1408.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chomel" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JTZQG_p_IVP_PORT_390x585_20221030_19441.jpg" group-title="CITRA Exclusive",Chomel
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1409.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cicak-Man" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_HKQUM_p_IVP_PORT_390x585_202346_21526.jpg" group-title="CITRA Exclusive",Cicak-Man
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1410.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cicakman 2" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_HKQUP_p_IVP_PORT_390x585_202346_215139.jpg" group-title="CITRA Exclusive",Cicakman 2
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1411.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cicakman 3" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IVP_HDNXY_P_IVP_PORT_390x585_20221028_34755.jpg" group-title="CITRA Exclusive",Cicakman 3
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1412.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cinta Elevator" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT)_IPISN_p_IVP_PORT_390x585_20221029_15511.jpg" group-title="CITRA Exclusive",Cinta Elevator
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1413.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cucu Nek Putih" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JNWZX_p_IVP_PORT_390x585_20221028_54649.jpg" group-title="CITRA Exclusive",Cucu Nek Putih
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1414.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Curi Duit Raya" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KBGUF_p_IVP_PORT_390x585_2023415_14490.jpg" group-title="CITRA Exclusive",Curi Duit Raya
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1415.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cuti-cuti Cinta" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_FJEUH_p_IVP_PORT_390x585_20221028_154912.jpg" group-title="CITRA Exclusive",Cuti-cuti Cinta
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1416.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dah Mati Pun Cantik" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT)_IYYEN_p_IVP_PORT_390x585_20221027_222556.jpg" group-title="CITRA Exclusive",Dah Mati Pun Cantik
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1417.mp4
+#EXTINF:-1 tvg-id="" tvg-name=""Dato" S" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IYTWE_p_IVP_PORT_390x585_20221029_10418.jpg" group-title="CITRA Exclusive","Dato" S
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1418.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Debunk" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KDRZD_p_IVP_PORT_390x585_20221030_15053.jpg" group-title="CITRA Exclusive",Debunk
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1419.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ghairah" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JBJMJ_p_IVP_PORT_390x585_20221028_21713.jpg" group-title="CITRA Exclusive",Ghairah
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1420.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hamba Iblis" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT)_IVP_255A6_p_IVP_PORT_390x585_20221028_92154.jpg" group-title="CITRA Exclusive",Hamba Iblis
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1421.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hantu Balik Pagi" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KDSAF_p_IVP_PORT_390x585_20221115_222352.jpg" group-title="CITRA Exclusive",Hantu Balik Pagi
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1422.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hantu Bonceng 2.0" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JQLTD_p_IVP_PORT_390x585_20221028_1181.jpg" group-title="CITRA Exclusive",Hantu Bonceng 2.0
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1423.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hantu Bonceng" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_FUISI_p_IVP_PORT_390x585_20221027_185418.jpg" group-title="CITRA Exclusive",Hantu Bonceng
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1424.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hantu Bungkus Ikat Tepi" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_HNYIB_p_IVP_PORT_390x585_20221029_92219.jpg" group-title="CITRA Exclusive",Hantu Bungkus Ikat Tepi
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1425.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hantu Kak Limah Balik Rumah" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_GFGQP_p_IVP_PORT_390x585_20221027_191552.jpg" group-title="CITRA Exclusive",Hantu Kak Limah Balik Rumah
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1426.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hijab Rejab" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT)_IYMPD_p_IVP_PORT_390x585_20221027_233059.jpg" group-title="CITRA Exclusive",Hijab Rejab
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1427.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hilang Akal" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT)_ILLNC_p_IVP_PORT_390x585_20221028_18334.jpg" group-title="CITRA Exclusive",Hilang Akal
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1428.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hingga Jumpa Lagi" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT)_IPISR_p_IVP_PORT_390x585_20221029_91229.jpg" group-title="CITRA Exclusive",Hingga Jumpa Lagi
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1429.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hantu Kak Limah 2: Husin, Mon dan Jin Pakai Toncit" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IALLL_P_IVP_PORT_390x585_20221027_224827.jpg" group-title="CITRA Exclusive",Hantu Kak Limah 2: Husin, Mon dan Jin Pakai Toncit
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1430.mp4
+#EXTINF:-1 tvg-id="" tvg-name="I Heart You Cik Yah" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT)_IOXJA_p_IVP_PORT_390x585_20221029_41649.jpg" group-title="CITRA Exclusive",I Heart You Cik Yah
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1431.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jamil Balik Kampung" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT)_IYACH_p_IVP_PORT_390x585_20221027_202553.jpg" group-title="CITRA Exclusive",Jamil Balik Kampung
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1432.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jangan Pandang Belakang Congkak" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT)_CNULQ_P_IVP_PORT_390x585_20221028_6204.jpg" group-title="CITRA Exclusive",Jangan Pandang Belakang Congkak
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1433.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jangan Takut, Kalau Kau Takut, Aku Pun Takut" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JUDVS_p_IVP_PORT_390x585_20221030_19943.jpg" group-title="CITRA Exclusive",Jangan Takut, Kalau Kau Takut, Aku Pun Takut
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1434.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Janji Jantan" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JNJRH_P_IVP_PORT_390x585_20221029_2247.jpg" group-title="CITRA Exclusive",Janji Jantan
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1435.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jodoh Syaitan" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JDAEX_p_IVP_PORT_390x585_20221027_231552.jpg" group-title="CITRA Exclusive",Jodoh Syaitan
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1436.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kampong Pisang Musikal Raya Istimewa" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JSWFK_p_IVP_PORT_390x585_20221030_185453.jpg" group-title="CITRA Exclusive",Kampong Pisang Musikal Raya Istimewa
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1437.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kampung Kuala Lambat" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IVP_IKPZG_p_IVP_PORT_390x585_20221028_75533.jpg" group-title="CITRA Exclusive",Kampung Kuala Lambat
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1438.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kecundang Sebelum Menjanda" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IVDTP_p_IVP_PORT_390x585_2023220_15227.jpg" group-title="CITRA Exclusive",Kecundang Sebelum Menjanda
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1439.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kelaster" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JMMTQ_p_IVP_PORT_390x585_20221029_54256.jpg" group-title="CITRA Exclusive",Kelaster
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1440.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KL Gangster 2" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT)_GQZSV_p_IVP_PORT_390x585_2019829_134943.jpg" group-title="CITRA Exclusive",KL Gangster 2
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1441.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KL Gangster" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_FQZST_p_IVP_PORT_390x585_202384_165229.jpg" group-title="CITRA Exclusive",KL Gangster
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1442.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kontena Ana" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT)_IVP_1F979_p_IVP_PORT_390x585_20221028_71945.jpg" group-title="CITRA Exclusive",Kontena Ana
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1443.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kubur Tak Bertanda" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_FTLEE_P_IVP_PORT_390x585_20221027_184737.jpg" group-title="CITRA Exclusive",Kubur Tak Bertanda
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1444.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lebai Sampan" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JYTBV_p_IVP_PORT_390x585_20221029_23816.jpg" group-title="CITRA Exclusive",Lebai Sampan
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1445.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Leftenan Adnan" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JLILW_p_IVP_PORT_390x585_20221029_104810.jpg" group-title="CITRA Exclusive",Leftenan Adnan
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1446.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Line Puaka" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JOLEY_p_IVP_PORT_390x585_20221028_214914.jpg" group-title="CITRA Exclusive",Line Puaka
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1447.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mael Totey: The Movie " tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JNBFO_p_IVP_PORT_390x585_20221028_151746.jpg" group-title="CITRA Exclusive",Mael Totey: The Movie 
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1448.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Malek" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT)_IVP_IKJYL_p_IVP_PORT_390x585_20221029_3838.jpg" group-title="CITRA Exclusive",Malek
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1449.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mandi Mayat" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KDSCD_p_IVP_PORT_390x585_20221115_222228.jpg" group-title="CITRA Exclusive",Mandi Mayat
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1450.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Matahari" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT)_IVJOG_p_IVP_PORT_390x585_20221027_193256.jpg" group-title="CITRA Exclusive",Matahari
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1451.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mat Bond Malaya" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JUFGA_p_IVP_PORT_390x585_20221030_1938.jpg" group-title="CITRA Exclusive",Mat Bond Malaya
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1452.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mohon Hantuan" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JPLCB_p_IVP_PORT_390x585_20221028_143417.jpg" group-title="CITRA Exclusive",Mohon Hantuan
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1453.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pangkalan Batu 6" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT)_HQVNF_p_IVP_PORT_390x585_20221028_19342.jpg" group-title="CITRA Exclusive",Pangkalan Batu 6
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1454.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Parut Ashikin" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_Parutashikin_1080X1620_P_FRYKW_IVP_PORT_390x585_20221029_121449.jpg" group-title="CITRA Exclusive",Parut Ashikin
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1455.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pelepas Saka" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT)_IVP_IDUGU_p_IVP_PORT_390x585_20221028_62021.jpg" group-title="CITRA Exclusive",Pelepas Saka
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1456.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pemberontak Kampung Harmoni" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT)_IWJJS_p_IVP_PORT_390x585_20221029_141625.jpg" group-title="CITRA Exclusive",Pemberontak Kampung Harmoni
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1457.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pemuja Kubur" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JTHRF_p_IVP_PORT_390x585_20221027_225125.jpg" group-title="CITRA Exclusive",Pemuja Kubur
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1458.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pengantin Lari Culik Artis" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT)_IOOZZ_p_IVP_PORT_390x585_20221028_74814.jpg" group-title="CITRA Exclusive",Pengantin Lari Culik Artis
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1459.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Penjara Abah" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT)_IVP_IMFXQ_p_IVP_PORT_390x585_20221028_225822.jpg" group-title="CITRA Exclusive",Penjara Abah
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1460.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pok Ya Cong Codei" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IVP_IJGZH_p_IVP_PORT_390x585_20221029_9303.jpg" group-title="CITRA Exclusive",Pok Ya Cong Codei
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1461.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pusaka" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IZPWF_p_IVP_PORT_390x585_20221029_74454.jpg" group-title="CITRA Exclusive",Pusaka
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1462.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pusaka Sangkar Ana" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT)_JAEHZ_p_IVP_PORT_390x585_20221028_92237.jpg" group-title="CITRA Exclusive",Pusaka Sangkar Ana
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1463.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Puyah & Putat" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JCUJN_p_IVP_PORT_390x585_20221028_105558.jpg" group-title="CITRA Exclusive",Puyah & Putat
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1464.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rock 4: Rockers Never Dai" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JDWQX_p_IVP_PORT_390x585_20221028_18437.jpg" group-title="CITRA Exclusive",Rock 4: Rockers Never Dai
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1465.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rompak" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KBMZJ_p_IVP_PORT_390x585_2023411_21316.jpg" group-title="CITRA Exclusive",Rompak
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1466.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saka Nan Sepi" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JOMPU_p_IVP_PORT_390x585_2022429_108.jpg" group-title="CITRA Exclusive",Saka Nan Sepi
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1467.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Satu Kampung Dua Orang" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JDQOM_P_IVP_PORT_390x585_20221028_141556.jpg" group-title="CITRA Exclusive",Satu Kampung Dua Orang
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1468.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Setan Dalam Poket" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT)_IOXJJ_p_IVP_PORT_390x585_20221029_11486.jpg" group-title="CITRA Exclusive",Setan Dalam Poket
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1469.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sumpahan Orang Putih" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JUDHC_p_IVP_PORT_390x585_20221029_25631.jpg" group-title="CITRA Exclusive",Sumpahan Orang Putih
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1470.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Syif Malam Raya (2020)" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JJHHE_p_IVP_PORT_390x585_20221028_151653.jpg" group-title="CITRA Exclusive",Syif Malam Raya (2020)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1471.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tanah Kubur: Fitnah Akhir Zaman" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JYQSF_p_IVP_PORT_390x585_20221029_3406.jpg" group-title="CITRA Exclusive",Tanah Kubur: Fitnah Akhir Zaman
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1472.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tanah Kubur: Peneman" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JSWYI_p_IVP_PORT_390x585_202387_23856.jpg" group-title="CITRA Exclusive",Tanah Kubur: Peneman
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1473.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tebus" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT)_IVJJW_P_IVP_PORT_390x585_20221028_101845.jpg" group-title="CITRA Exclusive",Tebus
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1474.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tersimpang Ke Alam Bunian" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JOSMR_p_IVP_PORT_390x585_20221030_134259.jpg" group-title="CITRA Exclusive",Tersimpang Ke Alam Bunian
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1475.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wau Kasih" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT)_HQVNB_p_IVP_PORT_390x585_2023628_91344.jpg" group-title="CITRA Exclusive",Wau Kasih
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1476.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Syaitan" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT)_IQXIB_p_IVP_PORT_390x585_20221028_192628.jpg" group-title="CITRA Exclusive",Syaitan
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1477.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kipas Belum Mati" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT)_IQXIG_p_IVP_PORT_390x585_2023912_132433.jpg" group-title="CITRA Exclusive",Kipas Belum Mati
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1478.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Malay Regiment (2017)" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT)_28D71_p_IVP_PORT_390x585_20221029_51711.jpg" group-title="CITRA Exclusive",The Malay Regiment (2017)
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1479.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Asam Pedas Cendol Sejoli" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT)_IUNNP_p_IVP_PORT_390x585_20221029_63915.jpg" group-title="CITRA Exclusive",Asam Pedas Cendol Sejoli
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1480.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Badi Selendang Merah" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JDUXM_P_IVP_PORT_390x585_20221028_6917.jpg" group-title="CITRA Exclusive",Badi Selendang Merah
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1481.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kilas" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT)_INRWE_p_IVP_PORT_390x585_20221028_183118.jpg" group-title="CITRA Exclusive",Kilas
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1482.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lesen Besar" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT)_IVEPX_p_IVP_PORT_390x585_20221028_22735.jpg" group-title="CITRA Exclusive",Lesen Besar
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1483.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Matilahnak" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT)_ILRDX_p_IVP_PORT_390x585_20221028_71542.jpg" group-title="CITRA Exclusive",Matilahnak
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1484.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Orang Minyak Kampung Lenggong" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXKZW_p_IVP_PORT_390x585_20221029_54847.jpg" group-title="CITRA Exclusive",Orang Minyak Kampung Lenggong
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1485.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pak Dogo" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JKEVK_p_IVP_PORT_390x585_20221029_24820.jpg" group-title="CITRA Exclusive",Pak Dogo
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1486.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pak Pong" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT)_IVP_ICEKW_p_IVP_PORT_390x585_20221028_4153.jpg" group-title="CITRA Exclusive",Pak Pong
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1487.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pok Ya Cong Codei: Siti Di Hati" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT)_IMENQ_p_IVP_PORT_390x585_20221028_74313.jpg" group-title="CITRA Exclusive",Pok Ya Cong Codei: Siti Di Hati
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1488.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sekolah Api" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT)_IVP_IGIBV_p_IVP_PORT_390x585_20221028_23018.jpg" group-title="CITRA Exclusive",Sekolah Api
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1489.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Syirik" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT)_IQHBS_p_IVP_PORT_390x585_20221029_104431.jpg" group-title="CITRA Exclusive",Syirik
+http://foctv.xyz:25510/movie/@azamcekman/Ti0NKDy655/1490.mp4
 
 
 
