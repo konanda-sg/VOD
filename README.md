@@ -2945,7 +2945,12 @@ http://abf.filmbluray.id/z1kddn4
 http://abf.filmbluray.id/5y8idvr
 #EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",VOD III (1983) SUB INDO
 http://abf.filmbluray.id/00lsnw3
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JtfNG2k/SEWUDINO.jpg" group-title="🇮🇩 MIDNITE SHOW 🇮🇩", SEWU DINO
+https://download.filesaya.eu.org/BOT/Sewu%20Dino%202023%20MipHasn.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PMZnRKQ/KKN.jpg" group-title="🇮🇩 MIDNITE SHOW 🇮🇩",KKN DESA PENARI
+https://drive.dubbindo.site/upload/videos/2023/05/pmDULoqdwNAuExJd3pTR_03_4e1dc2ec18bde9758d28f81c2aa630a3_video_720p_converted.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fVRc1R1/KHANZAB.jpg" group-title="🇮🇩 MIDNITE SHOW 🇮🇩",KHANZAB
+https://download.filesaya.eu.org/BOT/2023/3GB%2B/Khanzab.2023.1080p.AMZN.WEB-DL.DDP2.0.H.264-NickiEX.mkv
 
 
 
