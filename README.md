@@ -2347,7 +2347,604 @@ https://www.googleapis.com/drive/v3/files/1Tkdasl51whYeYlwXWRAQ-XoUtW-qGoOt?alt=
 #EXTINF:-1 group-title="BIOSKOP HOROR",Belenggu
 https://www.googleapis.com/drive/v3/files/1eGJ-9tT7_Xp8ulYNrPtbNagmGDCBfb0i?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",6 Underground (2019) SUB INDO
+http://abf.filmbluray.id/wdnp8he
 
+
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",47 Hours to Live (2019) SUB INDO
+http://abf.filmbluray.id/olg5zbz
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",300 (2006) SUB INDO
+http://abf.filmbluray.id/hkk45dt
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",300 : Rise of an Empire (2014) SUB INDO
+http://abf.filmbluray.id/imuyvj5
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",1917 (2020) SUB INDO
+http://abf.filmbluray.id/gded1dg
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",A Babysitter's Guide to Monster Hunting (2020) SUB INDO
+http://abf.filmbluray.id/degd9nc
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",A Chinese Ghost Story (1987) SUB INDO
+http://abf.filmbluray.id/pyrob13
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",A Chinese Odyssey Part One : Pandora's Box (1995) SUB INDO
+http://abf.filmbluray.id/2zgskva
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",A Chinese Odyssey Part Two : Cinderella (1995) SUB INDO
+http://abf.filmbluray.id/rovg3zp
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",A Chinese Odyssey Part Three : The Finale (2016) SUB INDO
+http://abf.filmbluray.id/sq86cyh
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Adventures of Rufus The Fantastic Pet (2020) SUB INDO
+http://abf.filmbluray.id/yplvxdl
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Aladdin (2019) SUB INDO
+http://abf.filmbluray.id/5115kfz
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Ali (2001) SUB INDO
+http://abf.filmbluray.id/0zi23h7
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Alita Battle Angel (2019) SUB INDO
+http://abf.filmbluray.id/lsx37ja
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Archive (2020) SUB INDO
+http://abf.filmbluray.id/mmbiw33
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Arctic (2018) SUB INDO
+http://abf.filmbluray.id/lq8xxbi
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Arkansas (2020) SUB INDO
+http://abf.filmbluray.id/anrowc4
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Artemis Fowl (2020) SUB INDO
+http://abf.filmbluray.id/37hnc4i
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Assassin's Creed (2016) SUB INDO
+http://abf.filmbluray.id/dylcwqx
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Avatar (2009) SUB INDO
+http://abf.filmbluray.id/olmpsvd
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Baby Driver (2017) SUB INDO
+http://abf.filmbluray.id/jctr72z
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Baby's Day Out (1994) SUB INDO
+http://abf.filmbluray.id/vi33dj7
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Back to The Future (1985) SUB INDO
+http://abf.filmbluray.id/k483jbp
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Back to The Future Part II (1989) SUB INDO
+http://abf.filmbluray.id/pppi58j
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Back to The Future Part III (1990) SUB INDO
+http://abf.filmbluray.id/fa7j9a2
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Bad Trip (2020) SUB INDO
+http://abf.filmbluray.id/4biqd0n
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Bad Boys 2 (2003) SUB INDO
+http://abf.filmbluray.id/hwnnjr0
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Bad Boys For Life (2020) SUB INDO
+http://abf.filmbluray.id/0uo4oe5
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Badges of Fury (2013) SUB INDO
+http://abf.filmbluray.id/jdsts8t
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Battle of Empires : Fetih 1453 (2012) SUB INDO
+http://abf.filmbluray.id/r7g5upu
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Battle of Leningrad (2019) SUB INDO
+http://abf.filmbluray.id/nhvso1x
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Battle of The Warriors (2006) SUB INDO
+http://abf.filmbluray.id/96t86g3
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Beauty And The Beast (2017) SUB INDO
+http://abf.filmbluray.id/dkt2med
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Beyond Skyline (2017) SUB INDO
+http://abf.filmbluray.id/fjo5jl7
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Big Game (2014) SUB INDO
+http://abf.filmbluray.id/myxabcz
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Bird Box (2018) SUB INDO
+http://abf.filmbluray.id/7jdrrzb
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Black and Blue (2019) SUB INDO
+http://abf.filmbluray.id/o4w8zz6
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Black Mask (1996) SUB INDO
+http://abf.filmbluray.id/qqrb46n
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Blade Of The Immortal (2017) SUB INDO
+http://abf.filmbluray.id/g5tf3o6
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Bleeding Steel (2017) SUB INDO
+http://abf.filmbluray.id/svlbeje
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Blood Diamond (2006) SUB INDO
+http://abf.filmbluray.id/lx6q264
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Bloodshot (2020) SUB INDO
+http://abf.filmbluray.id/fanoe9l
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Bodyguards and Assassins (2009) SUB INDO
+http://abf.filmbluray.id/kjtv7n0
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Bohemian Rhapsody (2018) SUB INDO
+http://abf.filmbluray.id/qpmz84w
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Boss Level (2020) SUB INDO
+http://abf.filmbluray.id/5m86zm5
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Bravestrom (2017) SUB INDO
+http://abf.filmbluray.id/wkyg559
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Bright (2017) SUB INDO
+http://abf.filmbluray.id/0hagfsq
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Brightburn (2019) SUB INDO
+http://abf.filmbluray.id/tdrbi75
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Bull (2019) SUB INDO
+http://abf.filmbluray.id/nnsw060
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Central Intelligence (2016) SUB INDO
+http://abf.filmbluray.id/3w66sgj
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Chappie (2015) SUB INDO
+http://abf.filmbluray.id/1atduh5
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Chef (2014) SUB INDO
+http://abf.filmbluray.id/akmo5bm
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Charlie's Angels (2000) SUB INDO
+http://abf.filmbluray.id/8thf3ls
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Charlie's Angels : Full Throttle (2003) SUB INDO
+http://abf.filmbluray.id/sdp05ke
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Charlie's Angels (2019) SUB INDO
+http://abf.filmbluray.id/63jnw75
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Constantine (2005) SUB INDO
+http://abf.filmbluray.id/ze14ozy
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Contagion (2011) SUB INDO
+http://abf.filmbluray.id/6yrihiw
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Cook Up a Storm (2017) SUB INDO
+http://abf.filmbluray.id/2ok3zwm
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Cosmoball (2020) SUB INDO
+http://abf.filmbluray.id/prj2zgc
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Cradle 2 The Grave (2003) SUB INDO
+http://abf.filmbluray.id/kjjyqxg
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Crank (2006) SUB INDO
+http://abf.filmbluray.id/bbs9kta
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Crank : High Voltage(2009) SUB INDO
+http://abf.filmbluray.id/w8rua6c
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Crystal Inferno (2017) SUB INDO
+http://abf.filmbluray.id/xjixqsc
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Daphne Velma (2018) SUB INDO
+http://abf.filmbluray.id/g9gfe8h
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Death Note 2 : The Last Name (2006) SUB INDO
+http://abf.filmbluray.id/8p85uqe
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Death Note : L Change The World (2008) SUB INDO
+http://abf.filmbluray.id/g7vxn2o
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Death Note : Light Up The New World (2016) SUB INDO
+http://abf.filmbluray.id/vo8zt89
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Death Note (2017) SUB INDO
+http://abf.filmbluray.id/t5duqq7
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Young Detective Dee : Rise Of The Sea Dragon (2013) SUB INDO
+http://abf.filmbluray.id/qiritkx
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Detective Dee : The Four Heavenly Kings (2018) SUB INDO
+http://abf.filmbluray.id/r2fu5to
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Detective Dee : The Mystery of The Phantom Flame (2010) SUB INDO
+http://abf.filmbluray.id/3h05694
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Detective Dee : Solitary Skies Killer (2020) SUB INDO
+http://abf.filmbluray.id/gsy52cn
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Die Hard 1 (1988) SUB INDO
+http://abf.filmbluray.id/5pqm10v
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Die Hard 2 : Die Harder (1990) SUB INDO
+http://abf.filmbluray.id/88v82ww
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Die Hard with a Vengeance (1995) SUB INDO
+http://abf.filmbluray.id/sxm3nv0
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Live Free or Die Hard (2007) SUB INDO
+http://abf.filmbluray.id/h6c7245
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",A Good Day to Die Hard (2013) SUB INDO
+http://abf.filmbluray.id/ikx8gxn
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",District 9 (2009) SUB INDO
+http://abf.filmbluray.id/y04wrbc
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Divergent (2014) SUB INDO
+http://abf.filmbluray.id/m50hw57
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Dragonball : Evolution (2009) SUB INDO
+http://abf.filmbluray.id/iawcbx2
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Dragonheart : Vengeance (2020) SUB INDO
+http://abf.filmbluray.id/i56tyk7
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Drunken Master 1 (1978) SUB INDO
+http://abf.filmbluray.id/7sr3zb3
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Drunken Master 2 (1994) SUB INDO
+http://abf.filmbluray.id/jw3s74d
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Dumbo (2019) SUB INDO
+http://abf.filmbluray.id/txt1c2a
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Edge of Tomorrow (2014) SUB INDO
+http://abf.filmbluray.id/fkniq7u
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",El Camino : A Breaking Bad VOD (2019) SUB INDO
+http://abf.filmbluray.id/8dzvfu7
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Enemy at The Gates (2001) SUB INDO
+http://abf.filmbluray.id/y5adsqf
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Enola Holmes (2020) SUB INDO
+http://abf.filmbluray.id/76kdbz7
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Enter The Fat Dragon (2020) SUB INDO
+http://abf.filmbluray.id/7x9al2o
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Escape From Pretoria (2020) SUB INDO
+http://abf.filmbluray.id/xkyns79
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Escape Plan 1 (2013) SUB INDO
+http://abf.filmbluray.id/ou4ze9a
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Escape Plan 2 : Hades (2018) SUB INDO
+http://abf.filmbluray.id/i70d0rq
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Escape Plan : The Extractors (2019) SUB INDO
+http://abf.filmbluray.id/js47n9q
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Everest (2015) SUB INDO
+http://abf.filmbluray.id/j1j5ynj
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Extraction (2020) SUB INDO
+http://abf.filmbluray.id/6c2uvyg
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Fabricated City (2017) SUB INDO
+http://abf.filmbluray.id/kjmj2u1
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Fantastic Four (2005) SUB INDO
+http://abf.filmbluray.id/4ebzwum
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Fantastic Four : Rise of The Silver Surfer (2007) SUB INDO
+http://abf.filmbluray.id/sso1kkt
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Fantasy Magician (2020) SUB INDO
+http://abf.filmbluray.id/pv4xsyt
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Fearless (2006) SUB INDO
+http://abf.filmbluray.id/nncelfj
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Fight Back to School 1 (1991) SUB INDO
+http://abf.filmbluray.id/wgsjfyy
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Fight Back to School 2 (1992) SUB INDO
+http://abf.filmbluray.id/uus9r1c
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Fighting with My Family (2019) SUB INDO
+http://abf.filmbluray.id/bjp5s00
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Firestorm (2013) SUB INDO
+http://abf.filmbluray.id/tm0on7h
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Fist of Legend (1994) SUB INDO
+http://abf.filmbluray.id/g5tem6y
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Focus (2015) SUB INDO
+http://abf.filmbluray.id/c3mwtbc
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Forbidden City Cop (1996) SUB INDO
+http://abf.filmbluray.id/riyw851
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Ford vs Ferrari (2019) SUB INDO
+http://abf.filmbluray.id/v7e9nu2
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Foxtrot Six (2019) SUB INDO
+http://abf.filmbluray.id/vf0ck0y
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Freaky (2020) SUB INDO
+http://abf.filmbluray.id/ri76z1y
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",From Beijing with Love (1994) SUB INDO
+http://abf.filmbluray.id/cicz17q
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Furious :  Legend of Kolovrat (2017) SUB INDO
+http://abf.filmbluray.id/s48qqm6
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",G.I. Joe Rise of Cobra (2009) SUB INDO
+http://abf.filmbluray.id/ien8e4t
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",G.I. Joe : Retaliation (2013) SUB INDO
+http://abf.filmbluray.id/5y7k3zw
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Geostorm (2017) SUB INDO
+http://abf.filmbluray.id/o1jo0i3
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Ghostbusters 1 (1984) SUB INDO
+http://abf.filmbluray.id/otcb928
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Ghostbusters 2 (1989) SUB INDO
+http://abf.filmbluray.id/x63pvqi
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Ghostbusters : Answer The Call (2016) SUB INDO
+http://abf.filmbluray.id/2hc1flx
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Girl (2020) SUB INDO
+http://abf.filmbluray.id/nbx4dnc
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Godmothered (2020) SUB INDO
+http://abf.filmbluray.id/i2vrke9
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Gods of Egypt (2016) SUB INDO
+http://abf.filmbluray.id/qhed1xm
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Godzilla (2014) SUB INDO
+http://abf.filmbluray.id/6g65cug
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Godzilla : King of The Monsters (2019) SUB INDO
+http://abf.filmbluray.id/saopyiz
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",God of War (2017) SUB INDO
+http://abf.filmbluray.id/nqawxdc
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Goosebumps 1 (2015) SUB INDO
+http://abf.filmbluray.id/el5irom
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Goosebumps 2 : Haunted Halloween (2018) SUB INDO
+http://abf.filmbluray.id/ycqtxho
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Grand Blue Dreaming (2020) SUB INDO
+http://abf.filmbluray.id/ycx8ujc
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Greenland (2020) SUB INDO
+http://abf.filmbluray.id/w1rz1xi
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Green Lantern (2011) SUB INDO
+http://abf.filmbluray.id/iggyhwe
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Guns Akimbo (2019) SUB INDO
+http://abf.filmbluray.id/9idkhpw
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Hachiko : A Dog's Story (2009) SUB INDO
+http://abf.filmbluray.id/l52s3qe
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Hannibal - Manhunter (1986) SUB INDO
+http://abf.filmbluray.id/t7amiza
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Hannibal - The Silence of the Lambs (1991) SUB INDO
+http://a#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Safe (2012) SUB INDO
+http://abf.filmbluray.id/mh7o92h
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",San Andreas (2015) SUB INDO
+http://abf.filmbluray.id/evq71hg
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Saving Private Ryan (1998) SUB INDO
+http://abf.filmbluray.id/p0lj4zv
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Secret Zoo (2020) SUB INDO
+http://abf.filmbluray.id/kbcp58b
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Shadow in The Cloud (2020) SUB INDO
+http://abf.filmbluray.id/th50no7
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Shaolin Soccer (2001) SUB INDO
+http://abf.filmbluray.id/dld0wzr
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Sherlock Holmes (2009) SUB INDO
+http://abf.filmbluray.id/vzexz9d
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Sherlock Holmes : A Game of Shadows (2011) SUB INDO
+http://abf.filmbluray.id/ym01ali
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Shoot Em Up (2007) SUB INDO
+http://abf.filmbluray.id/05jusrk
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Shrek 1 (2001) SUB INDO
+http://abf.filmbluray.id/9x3fcsb
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Shrek 2 (2004) SUB INDO
+http://abf.filmbluray.id/agzf6p0
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Shrek 3 Shrek the Third (2007) SUB INDO
+http://abf.filmbluray.id/xsqs4a3
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Shrek 5 Shrek Musical (2013) SUB INDO
+http://abf.filmbluray.id/v3tj9ra
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Skyscraper (2018) SUB INDO
+http://abf.filmbluray.id/1ucrihs
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Smoki'n Aces (2007) SUB INDO
+http://abf.filmbluray.id/ot87p8p
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Snake in The Eagle's Shadow (1978) SUB INDO
+http://abf.filmbluray.id/atysoc5
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Snow White and The Huntsman (2012) SUB INDO
+http://abf.filmbluray.id/994xul5
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Soccer Killer (2017) SUB INDO
+http://abf.filmbluray.id/0mrr5yz
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Sonic the Hedgehog (2020) SUB INDO
+http://abf.filmbluray.id/52w61gv
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Space Jam (1996) SUB INDO
+http://abf.filmbluray.id/3cx6uf3
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Spawn (1997) SUB INDO
+http://abf.filmbluray.id/z1zjy1i
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Speed 1 (1994) SUB INDO
+http://abf.filmbluray.id/rlgoxrs
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Speed 2 : Cruise Control (1997) SUB INDO
+http://abf.filmbluray.id/n2a2tzv
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Spenser Confidential (2020) SUB INDO
+http://abf.filmbluray.id/oqy5qsg
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Sputnik (2020) SUB INDO
+http://abf.filmbluray.id/xst9984
+bf.filmbluray.id/32y5iko
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",The Transporter 1 (2002) SUB INDO
+http://abf.filmbluray.id/2vaa875
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",The Transporter 2 (2005) SUB INDO
+http://abf.filmbluray.id/exh9v5x
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",The Transporter 3 (2008) SUB INDO
+http://abf.filmbluray.id/fa3r8d7
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",The Transporter : Refueled (2015) SUB INDO
+http://abf.filmbluray.id/epp6jrr
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",The Expendables 1 (2010)  SUB INDO
+http://abf.filmbluray.id/3kwb55n
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",The Expendables 2 (2012) SUB INDO
+http://abf.filmbluray.id/js54epn
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",The Expendables 3 (2014) SUB INDO
+http://abf.filmbluray.id/3pnemqu
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",The Fate of the Furious (2017) SUB INDO
+http://abf.filmbluray.id/bzyv12m
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Fast & Furious Presents: Hobbs & Shaw (2019) SUB INDO
+http://abf.filmbluray.id/vurxfca
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",VOD and The Temple of Doom (1984) SUB INDO
+http://abf.filmbluray.id/vrr4hyw
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",VOD and The Last Crusade (1989) SUB INDO
+http://abf.filmbluray.id/q4oxqtg
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",VOD and The Kingdom of The Crystal Skull (2008) SUB INDO
+http://abf.filmbluray.id/mpnk6y2
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",AntMan & The Wasp Quantumania (2023) Cam
+https://1w61yw.bn.files.1drv.com/y4m8UXhfIG370pBt4WSO5h6IFOuvwmraw5Y0RwaCweWGDM2aPTzpQTSPqMLHDRUtHoU4KhyY2kMIHjAgtR0vIf9VSJsoL4qb1VW6wXfO4OseNzTwxS0kAcLGwfnDPx7PdY-NL_FdyhExR9XhTvP9LWxGkYIh1EdFc471BHVqCWBns-fEAofXBScelmm9QliwtKf50z1aHHnKJim_2iOayKLcw
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/an/Xt0q2bHBzd0/14035041647842474454_mq.jpg?v=63919330" group-title="VOD",Candy Land (2023)
+https://wxkrnw.bn.files.1drv.com/y4mrD8SmhFYCGWfa9dhm_KbSXiDH3bQTOuFtVIlQRH2wUR4v1-O5aDoBNZeqhWDKnK90flm1m0UL406TqjxYQOTfZKpRbXRcCSnGdl8hR3fE_QkgrafjAGKLsKte-YZ222_BpqXPZt4vf7BvCW45OGr6Q7yGksjoAu3dOx4lpz7t_f3JGYVvFpd86LaWviZz1PUvifQ2a96x0vGrKj8kPqNgw
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Gangnam Zombie (2023)
+https://os9rtq.bn.files.1drv.com/y4mp6OqS9_R25sCWGl5aBcVZ1dfPqGHMo8vCJ2N53b1CGoF0XuujIT92_sMajPd3BF5eoO1bufQYN7KWF2-2DfAZ3VpDnRzC7eFpwmalY-0j9j2dy-dkhiq7uHV-pRNRNGIwFotIRuMiaolMnTZhqwT-q3AoZi4j5--Y2jYQu5Vy5kngfr6-8OgDq8Hyut4pqs4sHUexysqR77ycQwyFJKmgw
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Jung-E (2023)
+https://v9jsrq.bn.files.1drv.com/y4mIzWm6ep4dLlpJl5yidqxs4KMCY7jn702X2KPd7KP3ssVrPk6oacEY3bes9PEPh56RH9S4VZsbqyZunuJgRdWNfNlK96O-MjjFDusSnfDlgqrvfspAYxdpyN-gzF_IrrskC8Jh-st-KhHJQHHp9UKqc69Nu5BjvrY7yQr2qsTBo7O0XpCIid055xcpoPYsbJYJWDQg6vRJr8oV2DjfUvXWw
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Legions (2023)
+https://www.dropbox.com/s/dp9fgcucj73ch9i/D21.FUN-Legions-2023-1674958792.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Love At First Kiss (2023)
+https://d72ljg.bl.files.1drv.com/y4midZer4jCfLV7bz2kNqUN08ZH4e_Yo_V_WgNZ_2ZNuctrCLL3uWwq6yJTjAe0a47Pa5Rkr_zEDmUEgUSqRHxn_fv-5ueR8WpqmAkbCwPhBLur31-9V8Ltk4hcToahJdGuHyGLAlVUlCCCoXEL2Tkr9lxLvSlDv_qR_fK4-LOoubEOa01XXhrpt4KgDNTT_xgJw80UBHMMe7dTlC-kGa43iA
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Missing (2023)
+https://1uncpg.bn.files.1drv.com/y4mDH850VcBg2R2C5ivleS0mjjIP9zqdWTWbvHBKK5aeZnnakb97ad1QMFkcux63aL64UwAdE9VjwB5EODfgkAx6plmaB2nZytm1iHfnaaFmCiriRhkS0UoIlyHkBLyU11XtUS9feLVp3OcovNJSHiObjptohExmmVbHOhvGGgHTtquUjOU0f283H1N-CIQQ3HKwu6bUa-vcn3uO-efVjafVQ
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Night Train (2023)
+https://www.dropbox.com/s/ctr2usfjv9bphwy/D21.FUN-Night-Train-2023-1674777782.mp4?dl=1
+
+
+
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Panther Swat (2023)
+https://osqqqa.bn.files.1drv.com/y4mY-uslm7LZjbUzNqDXfKhvlMh35DY_RZlX2UNmil6xc8bSY4A73ayRknCknz0TPw92Tl5XK90enhqpIrQOjk-btqK0HXZO84jQ9P_dvNK1hMTCYYH26yyDHOtnpThvObAX-gzCJu091GsuZSzidURzn_A3KLy-W0wUWf_w-ilJnaqN3X7B2_hMvqB5lNgk633EksXk5SfwVrwqQs0JVLVrg
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Supercell (2023)
+https://www.dropbox.com/s/rvofrvr53a2wva0/dzifp-supercell2023.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",The Devil Conspiracy (2023)
+https://www.dropbox.com/s/sivvl3w17h0n6d6/D21.FUN-The-Devil-Conspiracy-2023-1677941881.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",The Girl Who Escaped:The Kara Robinson Story (2023)
+https://nsg5bq.dm.files.1drv.com/y4mNjakybgeh-ZU6uq253IAlNMXwaeZZ_BfrU0ybWWPL1n_ftSCgNwc1_cjFH16oCmJvXZT6I5sILrmd4ZQqV7Ylsjg4OekVvpUUgtpqpONgGBDAEE64UvGfxqiKM3eQWsYWnHmWtLA46YuV0x9q8UBgy61Laszmz0G_dxQl5XTfvtT7KonaxJx0p3EOZCZ9uBGnNq3jhvfR8Wwk1JPyawN3A
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",The Park (2023)
+https://8kpldg.dm.files.1drv.com/y4mXK2VOY_h17-VDctu6u-iu5ghwJLJo-1IbvR3UdUITcDueslfSG1g4gF8oPDWeu0yQTdckmnr-JNXIZU8KcwE8us0bY1o4_E6T6lK4a-K1owPjCNxJu_P0VO6aQBXx7lvpzvuKNQpfkPDMNz4RnK5qTojhWpwjJr11-LlgepIiKTLbJ23kKuqARDe8NIrZpGFdvR1c2BqYgMNY0RUXhyKig
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",The Point Man (2023)
+https://d70ksg.bl.files.1drv.com/y4mIr9UBkryS4f2HBVTqu4f5dNCKq0nBd5NBNX1OS92SZHdY3xKnba3Vw85VKg0UOByEZVqUy4gn50wAnvivYVbdW3wVWTRD70X1Q4r-HMcoBIhdXvPwJy8u0xDcTLOETXB7c9NBd6hFyyTe5bwIPPJcwPbiTyMVTMulbiDZ-PHzT148F-hLpjlL3FqqOyYLYZdOFMC6K-QjhngUhtragV1rg
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",The Ritual Killer (2023)
+https://rzwang.sn.files.1drv.com/y4mWM88yWuK8ZM-Uxp8O3OXlaLd1z1Yj371r2iiiHsfuN9bfvmcsYKCrGjFfybMT1ywIjznvgBADeAva2hMS2vfHGO4tyDDaNlg9LAmWaJn62OKog7kvtJwIZF3A5Am6tGICdJ6EwQ4dTgOdI5mTS8S2Bi6BnHxcVC7VJYu6YHlezJ3ODHkBFYO-kOMBcMuPd-HbqfYLSiRzhCg9qRLwMHoLA
+
+
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",The Super Mario Bross VOD (2023)
+https://www.dropbox.com/s/jcq80k98w4al71r/driveid-160454-hdrip-1080-terbit21-com-the-super-mario-bros-VOD-2023.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Unlocked (2023)
+https://www.dropbox.com/s/50xasxs7dpqp892/dzifp-unlocked2023.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Unwelcome (2023)
+https://d71amw.bl.files.1drv.com/y4mZy-3nzCjN4rZVz5s8UvThmii2bL0aSpcnyfNvDI1iTnooezXNhDjtS4YfvPdvcOzYXbiWhkgWr1z835TPx6820ZQIPHGsBUHVjJrfiZ2Lgk0Xb5mWWKT1swvbOXLJ0BAYUXg_dNp7pypl2vGPMciolaQ6WynbqvR_YwwwWsg3wyst0wBbTbjbki6WM3suPhB-Phgw0Xm1YIwlR5fbvlo3Q
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",We Have A Ghost (2023)
+https://os8ncq.bn.files.1drv.com/y4msw_INM7T5PYVeetJc4Yk5t78BXaBIjVgZ6LaxPaQ_KPjdetQN07WQMOwvKQAspuzoU5zuBHW0_IxQ6mjynZTo3bfEdUnOSFIxPtssgKda1hNi5xQa2mHya3JMiSRGJW9KtEKkDty3lWi2N3wneYfpEqmfOM6OsTyvMw9H8tsOqKDL1h9859iEQd_oGkl6C2jH1CpERhmqWDSXN2eKljXtw
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Black Panther (2018)
+http://abf.filmbluray.id/gauugz2
+
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Pan (2015) SUB INDO
+http://abf.filmbluray.id/hxa3897
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Parallel Minds (2020) SUB INDO
+http://abf.filmbluray.id/qyxe46r
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Parasyte Part 1 (2014) SUB INDO
+http://abf.filmbluray.id/h1okusj
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Parasyte Part 2 (2015) SUB INDO
+http://abf.filmbluray.id/2k1i35i
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Passengers (2016) SUB INDO
+http://abf.filmbluray.id/6dd1fwl
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Percy Jackson And The Olympians : The Lightning Thief (2010) SUB INDO
+http://abf.filmbluray.id/qxic3bl
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Percy Jackson And The Olympians : Sea of Monsters (2013) SUB INDO
+http://abf.filmbluray.id/yngv7bg
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Pete's Dragon (2016) SUB INDO
+http://abf.filmbluray.id/znrek2h
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Pinocchio (2019) SUB INDO
+http://abf.filmbluray.id/7xbzfqa
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Pirates of The Caribbean : The Curse of The Black Pearl (2003) SUB INDO
+http://abf.filmbluray.id/hudo80q
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Pirates of The Caribbean : Dead Man's Chest (2006) SUB INDO
+http://abf.filmbluray.id/dsgqqpn
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Pirates of The Caribbean : At Worlds End (2007) SUB INDO
+http://abf.filmbluray.id/satw5e4
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Pirates of The Caribbean : On Stranger Tides (2011) SUB INDO
+http://abf.filmbluray.id/8n4hmbw
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Pirates of The Caribbean : Dead Men Tell No Tales (2017) SUB INDO
+http://abf.filmbluray.id/tptvro5
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Pixels (2015) SUB INDO
+http://abf.filmbluray.id/9pw929z
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Power Rangers (2017) SUB INDO
+http://abf.filmbluray.id/ko8lgcx
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Pretty Woman (1990) SUB INDO
+http://abf.filmbluray.id/cj4thro
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Pride And Prejudice And Zombies (2016) SUB INDO
+http://abf.filmbluray.id/825z9fs
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Primal (2019) SUB INDO
+http://abf.filmbluray.id/473okas
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Prince Of Persia : The Sands Of Time (2010) SUB INDO
+http://abf.filmbluray.id/rh3fiw3
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Project Power (2020) SUB INDO
+http://abf.filmbluray.id/7o8nobi
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Push (2009) SUB INDO
+http://abf.filmbluray.id/vah4t78
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",VOD : First Blood - Part I (1982) SUB INDO
+http://abf.filmbluray.id/mffq0tq
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",VOD : First Blood - Part II (1985) SUB INDO
+http://abf.filmbluray.id/8mw6c2w
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",VOD III (1988) SUB INDO
+http://abf.filmbluray.id/83vl1q9
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",VOD (2008) SUB INDO
+http://abf.filmbluray.id/slpe504
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",VOD : Last Blood (2019) SUB INDO
+http://abf.filmbluray.id/29312ls
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Rampage (2018) SUB INDO
+http://abf.filmbluray.id/p6whmq8
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",R.E.D 1 (2010) SUB INDO
+http://abf.filmbluray.id/n4yl90h
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",R.E.D 2 (2013) SUB INDO
+http://abf.filmbluray.id/rmflapg
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Ready or Not (2019) SUB INDO
+http://abf.filmbluray.id/4rad6da
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Ready Player One (2018) SUB INDO
+http://abf.filmbluray.id/ny1udqd
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Real Steel (2011) SUB INDO
+http://abf.filmbluray.id/whei384
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Red Cliff Part 1 (2009) SUB INDO
+http://abf.filmbluray.id/qaht9g3
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Red Cliff Part 2 (2009) SUB INDO
+http://abf.filmbluray.id/zner1m1
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Rise of The Planet of The Apes (2011) SUB INDO
+http://abf.filmbluray.id/4t7fnou
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Dawn of The Planet of The Apes (2014) SUB INDO
+http://abf.filmbluray.id/52htcwj
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",War for The Planet of The Apes (2017) SUB INDO
+http://abf.filmbluray.id/lfqaov6
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Robin Hood: Prince of Thieves (1991) SUB INDO
+http://abf.filmbluray.id/jb0csqz
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Robin Hood (2010) SUB INDO
+http://abf.filmbluray.id/7u0hfmm
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Robin Hood : The Rebellion (2018) SUB INDO
+http://abf.filmbluray.id/iqvuuda
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Robin Hood (2018) SUB INDO
+http://abf.filmbluray.id/608l1q4
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Robo (2019) SUB INDO
+http://abf.filmbluray.id/og52vhf
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",RoboCop 1 (1987) SUB INDO
+http://abf.filmbluray.id/6mwv689
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",RoboCop 3 (1993) SUB INDO
+http://abf.filmbluray.id/vy4d0m4
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",RoboCop (2014) SUB INDO
+http://abf.filmbluray.id/bfk1fv7
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Romeo Must Die (2000) SUB INDO
+http://abf.filmbluray.id/wbayhj8
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Origins (2012) SUB INDO
+http://abf.filmbluray.id/ca7iypb
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Kyoto Inferno (2014) SUB INDO
+http://abf.filmbluray.id/cv6esjf
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",The Legend Ends (2014) SUB INDO
+http://abf.filmbluray.id/7jc52ye
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",(1998) SUB INDO
+http://abf.filmbluray.id/zdt82r1
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD", (2001) SUB INDO
+http://abf.filmbluray.id/5b9flta
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD", (2007) SUB INDO
+http://abf.filmbluray.id/opazeee
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Safe (2012) SUB INDO
+http://abf.filmbluray.id/mh7o92h
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",San Andreas (2015) SUB INDO
+http://abf.filmbluray.id/evq71hg
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Saving Private Ryan (1998) SUB INDO
+http://abf.filmbluray.id/p0lj4zv
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Secret Zoo (2020) SUB INDO
+http://abf.filmbluray.id/kbcp58b
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Sekigahara (2017) SUB INDO
+http://abf.filmbluray.id/p51lutp
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Shadow in The Cloud (2020) SUB INDO
+http://abf.filmbluray.id/th50no7
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Shaolin Soccer (2001) SUB INDO
+http://abf.filmbluray.id/dld0wzr
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Sherlock Holmes (2009) SUB INDO
+http://abf.filmbluray.id/vzexz9d
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Sherlock Holmes : A Game of Shadows (2011) SUB INDO
+http://abf.filmbluray.id/ym01ali
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Shoot Em Up (2007) SUB INDO
+http://abf.filmbluray.id/05jusrk
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Shrek 1 (2001) SUB INDO
+http://abf.filmbluray.id/9x3fcsb
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Shrek 2 (2004) SUB INDO
+http://abf.filmbluray.id/agzf6p0
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Shrek 3 Shrek the Third (2007) SUB INDO
+http://abf.filmbluray.id/xsqs4a3
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Shrek 4 Shrek Forever After (2010) SUB INDO
+http://abf.filmbluray.id/q7xgy0s
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Shrek 5 Shrek Musical (2013) SUB INDO
+http://abf.filmbluray.id/v3tj9ra
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Skyscraper (2018) SUB INDO
+http://abf.filmbluray.id/1ucrihs
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Smoki'n Aces (2007) SUB INDO
+http://abf.filmbluray.id/ot87p8p
+
+
+
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Snake in The Eagle's Shadow (1978) SUB INDO
+http://abf.filmbluray.id/atysoc5
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Snow White and The Huntsman (2012) SUB INDO
+http://abf.filmbluray.id/994xul5
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Soccer Killer (2017) SUB INDO
+http://abf.filmbluray.id/0mrr5yz
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Sonic the Hedgehog (2020) SUB INDO
+http://abf.filmbluray.id/52w61gv
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Space Jam (1996) SUB INDO
+http://abf.filmbluray.id/3cx6uf3
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Spawn (1997) SUB INDO
+http://abf.filmbluray.id/z1zjy1i
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Speed 1 (1994) SUB INDO
+http://abf.filmbluray.id/rlgoxrs
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Speed 2 : Cruise Control (1997) SUB INDO
+http://abf.filmbluray.id/n2a2tzv
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Spenser Confidential (2020) SUB INDO
+http://abf.filmbluray.id/oqy5qsg
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Sputnik (2020) SUB INDO
+http://abf.filmbluray.id/xst9984
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Sucker Punch (2011) SUB INDO
+http://abf.filmbluray.id/oz184w0
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",VOD I (1978) SUB INDO
+http://abf.filmbluray.id/z1kddn4
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",VOD II (1980) SUB INDO
+http://abf.filmbluray.id/5y8idvr
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",VOD III (1983) SUB INDO
+http://abf.filmbluray.id/00lsnw3
 
 
 
