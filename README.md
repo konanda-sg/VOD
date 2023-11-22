@@ -1,3 +1,14 @@
+#EXTINF:-1 tvg-id="" tvg-name="Dilwale Dulhania Le Jayenge (1995)" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/7wgED7Yx9VLcNWSO91VgwicHmMD.jpg" group-title="INDIAHE",Dilwale Dulhania Le Jayenge 
+http://sonyiptv.net:8080/movie/2244/2244/244846.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dil To Pagal Hai (1997)" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/7wgED7Yx9VLcNWSO91VgwicHmMD.jpg" group-title="INDIAHE",Dil To Pagal Hai 
+http://sonyiptv.net:8080/movie/2244/2244/244830.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dil Kya Kare (1999)" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/7wgED7Yx9VLcNWSO91VgwicHmMD.jpg" group-title="INDIAHE",Dil Kya Kare
+http://sonyiptv.net:8080/movie/2244/2244/244879.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Yes Boss (1997)" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/7wgED7Yx9VLcNWSO91VgwicHmMD.jpg" group-title="INDIAHE",Yes Boss 
+http://sonyiptv.net:8080/movie/2244/2244/245017.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kuch Kuch Hota Hai (1998)" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/7wgED7Yx9VLcNWSO91VgwicHmMD.jpg" group-title="INDIAHE",Kuch Kuch Hota Hai 
+http://sonyiptv.net:8080/movie/2244/2244/245112.mkv
+
 
 #EXTINF:0 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/originald/023508X0-landscape.jpg" group-title="MOVIE",Fast & Furious: Hobbs & Shaw
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -41,8 +52,7 @@ http://130.0.27.131:88/movies/html/Vizatimore/Vizatimore17.01.2019/Mulan-2.mp4
 
 #EXTINF:-1 group-title="MOVIE" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkwOTQ4OTg0OV5BMl5BanBnXkFtZTgwMzQyOTM0OTE@._V1_FMjpg_UX1000_.jpg",Train to Busan 
 http://37.26.86.39:48768/movies/traintobusan.mp4
-#EXTINF:-1 group-title="MOVIE" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkwOTQ4OTg0OV5BMl5BanBnXkFtZTgwMzQyOTM0OTE@._V1_FMjpg_UX1000_.jpg",Train to Busan 2
-http://37.26.86.39:48768/movies/traintobusan2.mp4
+
 #EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.jeded.com/i/iron-man.29111.jpg",Iron Man 
 http://abf.filmbluray.id/01l2rdj
 #EXTINF:-1 group-title="MOVIE" tvg-logo="http://pictures.my.id/images/bill2.png",Kill Bill Volume 2 
