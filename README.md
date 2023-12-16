@@ -1,13 +1,41 @@
-#EXTINF:-1 tvg-id="" tvg-name="Dilwale Dulhania Le Jayenge (1995)" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/7wgED7Yx9VLcNWSO91VgwicHmMD.jpg" group-title="INDIAHE",Dilwale Dulhania Le Jayenge 
-http://sonyiptv.net:8080/movie/2244/2244/244846.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dil To Pagal Hai (1997)" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/7wgED7Yx9VLcNWSO91VgwicHmMD.jpg" group-title="INDIAHE",Dil To Pagal Hai 
-http://sonyiptv.net:8080/movie/2244/2244/244830.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dil Kya Kare (1999)" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/7wgED7Yx9VLcNWSO91VgwicHmMD.jpg" group-title="INDIAHE",Dil Kya Kare
-http://sonyiptv.net:8080/movie/2244/2244/244879.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Yes Boss (1997)" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/7wgED7Yx9VLcNWSO91VgwicHmMD.jpg" group-title="INDIAHE",Yes Boss 
-http://sonyiptv.net:8080/movie/2244/2244/245017.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Kuch Kuch Hota Hai (1998)" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/7wgED7Yx9VLcNWSO91VgwicHmMD.jpg" group-title="INDIAHE",Kuch Kuch Hota Hai 
-http://sonyiptv.net:8080/movie/2244/2244/245112.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Ge Er (Gede Rasa) (1980) SUB INDO
+http://abf.filmbluray.id/1td6drb
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Gengsi Dong (1980) SUB INDO
+http://abf.filmbluray.id/pc5hdir
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Pintar Pintar Bodoh (1980) SUB INDO
+http://abf.filmbluray.id/u4hspqy
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", IQ Jongkok (1981) SUB INDO
+http://abf.filmbluray.id/osrg3o1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Chips (1982) SUB INDO
+http://abf.filmbluray.id/kw19hjb
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Maju Kena Mundur Kena (1983) SUB INDO
+http://abf.filmbluray.id/jkvjjin
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Pokoknya Beres (1983) SUB INDO
+http://abf.filmbluray.id/zxfzjhm
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Itu Bisa Diatur 
+http://abf.filmbluray.id/do3ugxv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Tahu Diri Dong 
+http://abf.filmbluray.id/u752m23
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Gantian Dong 
+http://abf.filmbluray.id/rq99s97
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Kesempatan Dalam Kesempitan 
+http://abf.filmbluray.id/f7gfa43
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Sama Juga Bohong 
+http://abf.filmbluray.id/7e8joq7
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Depan Bisa Belakang Bisa 
+http://abf.filmbluray.id/zobm5cs
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Bisa Naik Bisa Turun 
+http://abf.filmbluray.id/94cu9o0
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Bebas Aturan Main 
+http://abf.filmbluray.id/qn276o5
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Salah Masuk 
+http://abf.filmbluray.id/o6gedd9
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Pencet Sana Pencet Sini 
+http://abf.filmbluray.id/wxvxwdc
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Saya Duluan Dong 
+http://abf.filmbluray.id/w26tyv5
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/dkireborn.png", Warkop DKI Reborn
+http://abf.filmbluray.id/zcricf6
 
 
 #EXTINF:0 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/originald/023508X0-landscape.jpg" group-title="MOVIE",Fast & Furious: Hobbs & Shaw
