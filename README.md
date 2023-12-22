@@ -2339,23 +2339,23 @@ http://abf.filmbluray.id/ot87p8p
 http://abf.filmbluray.id/atysoc5
 #EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Snow White and The Huntsman (2012) SUB INDO
 http://abf.filmbluray.id/994xul5
-#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Soccer Killer (2017) SUB INDO
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Soccer Killer
 http://abf.filmbluray.id/0mrr5yz
-#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Sonic the Hedgehog (2020) SUB INDO
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Sonic the Hedgehog 
 http://abf.filmbluray.id/52w61gv
-#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Space Jam (1996) SUB INDO
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Space Jam  
 http://abf.filmbluray.id/3cx6uf3
-#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Spawn  SUB INDO
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Spawn  
 http://abf.filmbluray.id/z1zjy1i
-#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Speed 1  SUB INDO
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Speed 1 
 http://abf.filmbluray.id/rlgoxrs
 #EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Speed 2 : Cruise Control  SUB INDO
 http://abf.filmbluray.id/n2a2tzv
 #EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Spenser Confidential  SUB INDO
 http://abf.filmbluray.id/oqy5qsg
-#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Sputnik  SUB INDO
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Sputnik  
 http://abf.filmbluray.id/xst9984
-#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Sucker Punch ) SUB INDO
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",Sucker Punch 
 http://abf.filmbluray.id/oz184w0
 #EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",VOD I  SUB INDO
 http://abf.filmbluray.id/z1kddn4
