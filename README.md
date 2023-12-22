@@ -1710,8 +1710,7 @@ https://download.filesaya.eu.org/BOT/Sewu%20Dino%202023%20MipHasn.mp4
 https://drive.dubbindo.site/upload/videos/2023/05/pmDULoqdwNAuExJd3pTR_03_4e1dc2ec18bde9758d28f81c2aa630a3_video_720p_converted.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fVRc1R1/KHANZAB.jpg" group-title="🇮🇩 BIOSKOP HOROR 🇮🇩",KHANZAB
 https://download.filesaya.eu.org/BOT/2023/3GB%2B/Khanzab.2023.1080p.AMZN.WEB-DL.DDP2.0.H.264-NickiEX.mkv
-#EXTINF:-1 group-title="🇮🇩 BIOSKOP HOROR 🇮🇩" tvg-logo="https://pbs.twimg.com/media/DU_5NS5U0AAsRkf.jpg",Titisan Setan 2 (2018)
-https://www.googleapis.com/drive/v3/files/1gLXUYmhU0prZIO-movZzEwY-f4CbHlbx?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 #EXTINF:-1 group-title="🇮🇩 BIOSKOP HOROR 🇮🇩" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmQyZjhkMTUtYWMwMi00MTAyLThkOWUtZjIyYTFkNWEyYTNhXkEyXkFqcGdeQXVyNzMzMjU5NDY@._V1_.jpg",Suster Keramas (2009)
 https://www.googleapis.com/drive/v3/files/13xjDgOGOB8BvLxIMS2lJQ9CCSYaTpKfk?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="🇮🇩 BIOSKOP HOROR 🇮🇩" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjkyN2Q3MzctMDc1OS00Zjc0LTljODUtNzBjMDg0OWMyMzQ1XkEyXkFqcGdeQXVyNzY4NDQzNTg@._V1_.jpg",Rumah Kaliurang (2022)
@@ -1728,27 +1727,27 @@ https://www.googleapis.com/drive/v3/files/1wEwUCCP7rCu_vHc1UvGt3wOivv9bJHqo?alt=
 https://www.googleapis.com/drive/v3/files/1DRC9yXAmzCudZIjptTTWU_X_9_OlMLF5?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="🇮🇩 BIOSKOP HOROR 🇮🇩" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjUzYTE3NTItZTAzNy00ZDA1LWFiYjUtMGRiMmY3NDYyNTRjXkEyXkFqcGdeQXVyNzY4NDQzNTg@._V1_.jpg",Makmum (2019)
 https://www.googleapis.com/drive/v3/files/1D_EKnGSUPx9RYov0Ac9aqSjCKcDT8nE-?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="🇮🇩 BIOSKOP HOROR 🇮🇩" tvg-logo="https://lsf.go.id/wp-content/uploads/2021/06/Kuyang-350x520.jpeg",Kuyang the Movie (2021)
+#EXTINF:-1 group-title="🇮🇩 BIOSKOP HOROR 🇮🇩" tvg-logo="https://lsf.go.id/wp-content/uploads/2021/06/Kuyang-350x520.jpeg",Kuyang the Movie 
 https://www.googleapis.com/drive/v3/files/1IRfViSK6vfXNcHKU2i7L4kTBeRp8k203?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="🇮🇩 BIOSKOP HOROR 🇮🇩" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGM2ZTU3ZDEtZTk3MC00ZGZmLWE0ZjEtYzVjNThhOTdiZGNkXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_.jpg",Kamu Tidak Sendiri (2021)
+#EXTINF:-1 group-title="🇮🇩 BIOSKOP HOROR 🇮🇩" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGM2ZTU3ZDEtZTk3MC00ZGZmLWE0ZjEtYzVjNThhOTdiZGNkXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_.jpg",Kamu Tidak Sendiri 
 https://www.googleapis.com/drive/v3/files/1lRqQkhcotCpvKns1QQScK9kTo1XXh3Z9?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="🇮🇩 BIOSKOP HOROR 🇮🇩" tvg-logo="https://m.media-amazon.com/images/M/MV5BODAzODk5YzMtNjU4YS00NTIxLThlY2EtMTRmODkwYjIyYzcwXkEyXkFqcGdeQXVyMjIyNDU1OTg@._V1_.jpg",Kain Kafan Hitam (2019)
+#EXTINF:-1 group-title="🇮🇩 BIOSKOP HOROR 🇮🇩" tvg-logo="https://m.media-amazon.com/images/M/MV5BODAzODk5YzMtNjU4YS00NTIxLThlY2EtMTRmODkwYjIyYzcwXkEyXkFqcGdeQXVyMjIyNDU1OTg@._V1_.jpg",Kain Kafan Hitam 
 https://www.googleapis.com/drive/v3/files/1sbPMgFuUBm_tC6ppgOawAYO4ozB5Pvt6?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="🇮🇩 BIOSKOP HOROR 🇮🇩" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzZhZmFmNGEtNmE3Ny00ZThmLWIxYmMtMzM1NGQzOWQzZDY2XkEyXkFqcGdeQXVyMTE4MTAxMzUx._V1_.jpg",Jagat Arwah (2022)
+#EXTINF:-1 group-title="🇮🇩 BIOSKOP HOROR 🇮🇩" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzZhZmFmNGEtNmE3Ny00ZThmLWIxYmMtMzM1NGQzOWQzZDY2XkEyXkFqcGdeQXVyMTE4MTAxMzUx._V1_.jpg",Jagat Arwah 
 https://www.googleapis.com/drive/v3/files/1rnUsX-cEYrNflSk46_eGxhXJxh0J7ZKS?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="🇮🇩 BIOSKOP HOROR 🇮🇩" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDY3MTgwMWMtOGY2OC00ZmRhLWFjNjQtMDRmY2VjMDI4ZGY3XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",Inang (2022)
+#EXTINF:-1 group-title="🇮🇩 BIOSKOP HOROR 🇮🇩" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDY3MTgwMWMtOGY2OC00ZmRhLWFjNjQtMDRmY2VjMDI4ZGY3XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",Inang 
 https://www.googleapis.com/drive/v3/files/1t00ReoTNyh81mnlSKZfo3c4F7xFvxOKK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="🇮🇩 BIOSKOP HOROR 🇮🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Ikut_Aku_ke_Neraka.jpg/220px-Ikut_Aku_ke_Neraka.jpg",Ikut Aku ke Neraka (2019)
+#EXTINF:-1 group-title="🇮🇩 BIOSKOP HOROR 🇮🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Ikut_Aku_ke_Neraka.jpg/220px-Ikut_Aku_ke_Neraka.jpg",Ikut Aku ke Neraka
 https://www.googleapis.com/drive/v3/files/1wbbNUEVWpfhxNsO805enjX4eQNRmKbyN?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="🇮🇩 BIOSKOP HOROR 🇮🇩"tvg-logo="https://m.media-amazon.com/images/M/MV5BYjkyM2JmZjMtNjA5My00Njc5LTk5MTktNjY1ODllYjA5M2RiXkEyXkFqcGdeQXVyNzY4NDQzNTg@._V1_.jpg",Iblis Dalam Kandungan (2022)
+#EXTINF:-1 group-title="🇮🇩 BIOSKOP HOROR 🇮🇩"tvg-logo="https://m.media-amazon.com/images/M/MV5BYjkyM2JmZjMtNjA5My00Njc5LTk5MTktNjY1ODllYjA5M2RiXkEyXkFqcGdeQXVyNzY4NDQzNTg@._V1_.jpg",Iblis Dalam Kandungan 
 https://www.googleapis.com/drive/v3/files/15qMU6WYK777KAm1R8yYtC_At81_QqS8j?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="🇮🇩 BIOSKOP HOROR 🇮🇩" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzQ0MzI1MTEtMDk0Zi00N2VjLThhNjMtMWNhOGU2ZGVlYTNmXkEyXkFqcGdeQXVyOTg3Njg0ODU@._V1_FMjpg_UX1000_.jpg",Bayi Gaib (2018)
+#EXTINF:-1 group-title="🇮🇩 BIOSKOP HOROR 🇮🇩" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzQ0MzI1MTEtMDk0Zi00N2VjLThhNjMtMWNhOGU2ZGVlYTNmXkEyXkFqcGdeQXVyOTg3Njg0ODU@._V1_FMjpg_UX1000_.jpg",Bayi Gaib 
 https://www.googleapis.com/drive/v3/files/1z0v27V9sLM8O7OrqYSEp906jHVd0PWzZ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="🇮🇩 BIOSKOP HOROR 🇮🇩" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDUwYTNiMWQtZGQwMS00NGM0LTgxOWMtNTg2YzQxMzBlMmVlXkEyXkFqcGdeQXVyNjQ5NjgyMjE@._V1_.jpg",Alas Pati: Hutan Mati (2018)
+#EXTINF:-1 group-title="🇮🇩 BIOSKOP HOROR 🇮🇩" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDUwYTNiMWQtZGQwMS00NGM0LTgxOWMtNTg2YzQxMzBlMmVlXkEyXkFqcGdeQXVyNjQ5NjgyMjE@._V1_.jpg",Alas Pati: Hutan Mati
 https://www.googleapis.com/drive/v3/files/1G98uOa7PYfDU85L8-s9g9l2Fc_0kYism?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="🇮🇩 BIOSKOP HOROR 🇮🇩",Pengabdi Setan 2: Communion
 https://www.googleapis.com/drive/v3/files/1mfQnIUv-i-QfAQkbVI-2m9jipstBaaPO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="🇮🇩 BIOSKOP HOROR 🇮🇩",Titisan Setan 2
+#EXTINF:-1 group-title="🇮🇩 BIOSKOP HOROR 🇮🇩" tvg-logo="https://pbs.twimg.com/media/DU_5NS5U0AAsRkf.jpg",Titisan Setan 2 
 https://www.googleapis.com/drive/v3/files/1URK_VslCvMuz7VmUzqW5-0ClKB-d40FI?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="🇮🇩 BIOSKOP HOROR 🇮🇩",Suster Keramas
 https://www.googleapis.com/drive/v3/files/13xjDgOGOB8BvLxIMS2lJQ9CCSYaTpKfk?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
@@ -1764,6 +1763,7 @@ https://www.googleapis.com/drive/v3/files/1cois71zhOFOddq-LPZNRueM8xJ2hxIVa?alt=
 https://www.googleapis.com/drive/v3/files/1Tkdasl51whYeYlwXWRAQ-XoUtW-qGoOt?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="🇮🇩 BIOSKOP HOROR 🇮🇩",Belenggu
 https://www.googleapis.com/drive/v3/files/1eGJ-9tT7_Xp8ulYNrPtbNagmGDCBfb0i?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+=============================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",6 Underground (2019) SUB INDO
 http://abf.filmbluray.id/wdnp8he
