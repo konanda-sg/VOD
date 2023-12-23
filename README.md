@@ -1703,7 +1703,27 @@ https://lh3.googleusercontent.com/ImP5Y0jSsvXj3mhlFF21Fo3b5D_SqcTs_yXKp-C7kpiTEt
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", The Snow Queen  (2012)
 https://lh3.googleusercontent.com/zwsS5gwHpLhi-zdc1zC5LWGpZnWmf34X9r-kIAc2tqWAngSGC1G13Z584bqHd-egA6p1NG-Y8ARAYi39xQ=m22
-================================================================================================================================
+===============================================================================================================================
+#EXTVLCOPT:http-referrer=https://172.96.161.72/
+#EXTINF:-1 type="movie" group-title="🇮🇩 BIOSKOP HOROR 🇮🇩" tvg-logo="http://179.43.163.54/wp-content/uploads/2023/09/Ah2F2pzS0St34QDtRyK7AIIMUwP.jpg",SUZZANA MALAM JUM AT KLIWON
+http://23.226.71.77/fgG-hc1YSKIVvePu1T2mMXr9npBxcc662nlOOfIrfEHoGLjjFe14tslzlRR4Kw8t8EqlTHEzfSULdN6n31Qb-w/epG0KO5zeHo3vcqzsZjSMujSBAOr4-mDibdoA60iGVU/video.m3u8   
+ 
+#EXTVLCOPT:http-referrer=http://172.96.161.72/
+#EXTINF:-1 type="movie" group-title="🇮🇩 BIOSKOP HOROR 🇮🇩"tvg-logo="http://179.43.163.54/wp-content/uploads/2023/12/gt0zaEuYDgr5AbgHkLKmTfliBdd.jpg",SIKSA NERAKA
+http://23.226.71.77/DCMjwlKypwf1kSnvW1vLct8hit8twocTjntHqBZZs3sylckSVzsJP28vphUDv7P24CRN8JLFsvH_VhFWMX1OmA/YcImBIEsVoOt7tevLq-oFJwCusP2MinWimcUWQ5Hl10/video.m3u8
+ 
+#EXTVLCOPT:http-referrer=http://172.96.161.72/
+#EXTINF:-1 type="movie" group-title="🇮🇩 BIOSKOP HOROR 🇮🇩" tvg-logo="http://179.43.163.54/wp-content/uploads/2023/12/yAvhSlj1aciZALwtXNvaSoSwJL4-1-200x300.jpg",Sosok Ketiga 
+http://23.226.71.77/26_QSs0ZTrLjfY1srn4JB_SNgAyVqz1U21w_ifkLO4zx7_Czbt6vQ9bE-FYMftcjICFnNQZPIPtb83f3UfV9uA/yyZz-_24fzX-vDGzfJMr-a4xg0g0U7U0cu3O77glJpY/video.m3u8
+ 
+#EXTVLCOPT:http-referrer=http://172.96.161.72/
+#EXTINF:-1 type="movie" group-title="🇮🇩 BIOSKOP HOROR 🇮🇩" tvg-logo="http://179.43.163.54/wp-content/uploads/2023/12/rVzvYb1PLXEz83A8Jpi9YkcqlQ0-200x300.jpg",Perjamuan Iblis 
+http://23.226.71.77/kolRfImbMznZNIQktRsenAZms4tWcMhHfGfgi2wTya_ya5t2VsLX2knwxXl7zzfCFTyzSCt4vpEeyWwy1EeUXw/f01P1moW1fD9xlN8RAd3JWYewpI_kezAE7ykGEdTUu4/video.m3u8
+ 
+#EXTVLCOPT:http-referrer=http://172.96.161.72/
+#EXTINF:-1 type="movie" group-title="🇮🇩 BIOSKOP HOROR 🇮🇩" tvg-logo="http://179.43.163.54/wp-content/uploads/2023/12/8GlBl00JOIywYNkoeRc0Fnzwr8O.jpg",Kultus Iblis 
+http://23.226.71.77/8HcHNZNi53Cf9VcKR0o0n7P_n689PsvoGEnD28M2mLrAUUz-FBW-LVjxUI_11hCwxOzqMvSSEHiXoPujKfVlEA/tDmPcCMhNPDi7QxaJh7GeM9AZEUVIC4rbgXtP86PI0A/video.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JtfNG2k/SEWUDINO.jpg" group-title="🇮🇩 BIOSKOP HOROR 🇮🇩", SEWU DINO
 https://download.filesaya.eu.org/BOT/Sewu%20Dino%202023%20MipHasn.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PMZnRKQ/KKN.jpg" group-title="🇮🇩 BIOSKOP HOROR 🇮🇩",KKN DESA PENARI
@@ -2366,35 +2386,35 @@ http://abf.filmbluray.id/00lsnw3
 ===============================================================================================================================#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040194X0-portrait.jpg",Tom And Jerry: Snowman'S Land 2022
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"KPTxMHNytP9T/0ufkc45UQ","kid":"wUeWfe4JEKu1DNbk90dfXg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=KPTxMHNytP9T/0ufkc45UQ:wUeWfe4JEKu1DNbk90dfXg
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6455beb3d940521074d12528_hbovodhd/dash0/MYS_DOLBY_index.mpd
 #EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039450X0-portrait.jpg",Love, Lizzo 2022
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cOFF62JyUQjp4fb1UmNk6Q","kid":"repYQU+m/qNt7NhDl3YOsQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=cOFF62JyUQjp4fb1UmNk6Q:repYQU+m/qNt7NhDl3YOsQ
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64321955d940521074cdcc2e_hbovodhd/dash0/MYS_DOLBY_index.mpd
 #EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040515X0-portrait.jpg",The Fabelmans 2022
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Kh7c0mGVfIUjbNNgtm6g5w","kid":"wWwWR9lAbG+E8G8PvrBKKw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=Kh7c0mGVfIUjbNNgtm6g5w:wWwWR9lAbG+E8G8PvrBKKw
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64c37444d940521074db6dc6_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039274X0-portrait.jpg",The Travelog: Hyoyeon & Sunny In Qatar 2022
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XcaO3K867FSJslYkiekyfQ","kid":"bf+84Xzvk0Xq69ryRfFVsA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=:bf+84Xzvk0Xq69ryRfFVsA
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63914ccad940521074beb2da_hbovodhd/dash0/MYS_index.mpd
 
 #EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040406X0-portrait.jpg",She Said 2022
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"t2Jz8jsrpqRzhSEd9+N7bg","kid":"e37aZFh7K91Tk+EYfFO0sQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=t2Jz8jsrpqRzhSEd9+N7bg:e37aZFh7K91Tk+EYfFO0sQ
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64fb2e8bd940521074e0a73f_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040234X0-portrait.jpg",Crawlspace 2022
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9lLecFbuveJ7TpmNiMg7Cw","kid":"xGg03ex19SDifUdwV8W/7g"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=9lLecFbuveJ7TpmNiMg7Cw:xGg03ex19SDifUdwV8W/7g
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6482be0ad940521074d55b26_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 
@@ -2403,63 +2423,63 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6482be0ad940521074d
 #EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039469X0-portrait.jpg",2022 Rock & Roll Hall Of Fame Induction Ceremony 2022
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6q21tLCBoxTBATBhz5TGgQ","kid":"FqfdrntTQ7g4Mvnqu9RheA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=6q21tLCBoxTBATBhz5TGgQ:FqfdrntTQ7g4Mvnqu9RheA
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63be360ad940521074c2ea5f_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040320X0-portrait.jpg",Tad, The Lost Explorer And The Emerald Tablet 2022
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"sR+Ygnt8KwopH9aIrVC7sQ","kid":"2/JUDE+VBVGdfZkt3q3o3g"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=sR+Ygnt8KwopH9aIrVC7sQ:2/JUDE+VBVGdfZkt3q3o3g
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64cbb59ed940521074dc32ab_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039197X0-portrait.jpg",The Lair 2022
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"34klb4or14x5LuEIsFIhuA","kid":"7mZjWmq2AZXnjFssusfJhg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=34klb4or14x5LuEIsFIhuA:7mZjWmq2AZXnjFssusfJhg
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63ca3be2d940521074c40b5d_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040413X0-portrait.jpg",Armageddon Time 2022
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9c6Saop8WN619gpag+DeWg","kid":"zYrk4sTbUxfNXn6+60MFqQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=9c6Saop8WN619gpag+DeWg:zYrk4sTbUxfNXn6+60MFqQ
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64cbb2b5d940521074dc325f_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040516X0-portrait.jpg",Tár 2022
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"iS/y6+GfSJkLSyfwuVeEcQ","kid":"XRjtb6MHwyhesJOkyFTBiw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=iS/y6+GfSJkLSyfwuVeEcQ:XRjtb6MHwyhesJOkyFTBiw
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64cbbaffd940521074dc3343_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040639X0-portrait.jpg",A Tree Of Life 2022
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"QuS48/IQ8axdRFivn57cYQ","kid":"RN8rxN+0xqYGj5CGhN8P/g"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=QuS48/IQ8axdRFivn57cYQ:RN8rxN+0xqYGj5CGhN8P/g
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/650e60e3d940521074e27517_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040409X0-portrait.jpg",Ticket To Paradise 2022
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"FDlPv/3bWIxHuW7sKTfz+A","kid":"MFhqjZOGy6zeZBHlNGAX6A"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=:FDlPv/3bWIxHuW7sKTfz+A","kid":"MFhqjZOGy6zeZBHlNGAX6A
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6482be3ad940521074d55b2f_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040519X0-portrait.jpg",Dangerous Game: The Legacy Murders 2022
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cC0CcxejieFlEPXmq4X+hg","kid":"8528F76H80R6MAxxb2yXrA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=cC0CcxejieFlEPXmq4X+hg:8528F76H80R6MAxxb2yXrA
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64fb2699d940521074e0a66d_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040056X0-portrait.jpg",Batman And Superman: Battle Of The Super Sons 2022
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"v1OK8IjEHSn1XtAw237J4Q","kid":"/Cgx6alDJMHEQRLkJvcR9A"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=v1OK8IjEHSn1XtAw237J4Q:/Cgx6alDJMHEQRLkJvcR9A
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/645b0e9ad940521074d1a621_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040902X0-portrait.jpg",Trick-Or-Treat, Scooby-Doo! 2022
