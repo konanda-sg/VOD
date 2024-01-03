@@ -62,7 +62,8 @@ https://www.googleapis.com/drive/v3/files/1wQcSihpiOoZdE3igDqzoIS0sZ98VNvum?alt=
 #EXTINF:-1 tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="FILM INDO",Rencana Kabur 2 Hades
 https://www.googleapis.com/drive/v3/files/1PdlQRrP7viZHB5CblPzBDKrm1Sy8L7C8?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIE"  tvg-logo="https://image.tmdb.org/t/p/w185/kGMe8oqY2m8tWRFp3jjglmL7jnY.jpg", The Meg 2 2023
+https://www.googleapis.com/drive/v3/files/1El--Q0hHjgymeiv1zNUO2tq7iH9zhZQx?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:0 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/originald/023508X0-landscape.jpg" group-title="MOVIE",Fast & Furious: Hobbs & Shaw
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
